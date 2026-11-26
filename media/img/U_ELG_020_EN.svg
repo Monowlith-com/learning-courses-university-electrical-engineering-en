@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc">
+<title id="title">Temperature Control Loop Model</title>
+<desc id="desc">The reference and measurement estimate form the error. A limited PI controller drives the plant. The measurement chain feeds back the calibrated value.</desc>
+<defs><marker id="arrow" orient="auto" markerWidth="7" markerHeight="7" refX="9" refY="5" viewBox="0 0 10 10"><path d="M0 0 L10 5 L0 10Z" fill="#285a78"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="17" fill="#fff" stroke="#dbe1e6" stroke-width="2"/>
+<g font-family="Arial, sans-serif">
+<text x="56" y="79" font-size="32" fill="#1e2a31">Temperature Control Loop Model</text>
+<line x1="56" y1="110" x2="904" y2="110" stroke="#dbe1e6" stroke-width="2" />
+<rect x="119" y="237" width="138" height="106" rx="10" fill="#fff" stroke="#285a78" stroke-width="3"/>
+<rect x="336" y="237" width="222" height="106" rx="10" fill="#fff" stroke="#285a78" stroke-width="3"/>
+<rect x="644" y="237" width="202" height="106" rx="10" fill="#fff" stroke="#285a78" stroke-width="3"/>
+<rect x="403" y="419" width="250" height="77" rx="10" fill="#fff" stroke="#285a78" stroke-width="3"/>
+<text x="141" y="278" font-size="23" fill="#1e2a31">Comparator</text>
+<text x="155" y="310" font-size="23" fill="#1e2a31">e = r − y</text>
+<text x="379" y="277" font-size="23" fill="#1e2a31">PI controller</text>
+<text x="356" y="308" font-size="18" fill="#1e2a31">Input limit 0 to 1</text>
+<text x="693" y="278" font-size="23" fill="#1e2a31">Plant</text>
+<text x="666" y="309" font-size="20" fill="#1e2a31">State x in K</text>
+<text x="459" y="466" font-size="23" fill="#1e2a31">Measurement chain</text>
+<line x1="60" y1="289" x2="118" y2="289" stroke="#285a78" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="63" y="275" font-size="23" fill="#1e2a31">r</text>
+<line x1="257" y1="289" x2="335" y2="289" stroke="#285a78" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="282" y="275" font-size="23" fill="#1e2a31">e</text>
+<line x1="558" y1="289" x2="642" y2="289" stroke="#285a78" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="588" y="275" font-size="23" fill="#1e2a31">u</text>
+<line x1="743" y1="144" x2="743" y2="236" stroke="#285a78" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="758" y="180" font-size="23" fill="#1e2a31">Disturbance d</text>
+<line x1="846" y1="289" x2="885" y2="289" stroke="#285a78" stroke-width="3" />
+<line x1="885" y1="289" x2="885" y2="458" stroke="#285a78" stroke-width="3" />
+<line x1="885" y1="458" x2="654" y2="458" stroke="#285a78" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="856" y="272" font-size="23" fill="#1e2a31">x</text>
+<line x1="403" y1="458" x2="187" y2="458" stroke="#285a78" stroke-width="3" />
+<line x1="187" y1="458" x2="187" y2="344" stroke="#285a78" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="205" y="442" font-size="23" fill="#1e2a31">Estimate y</text>
+<text x="101" y="549" font-size="20" fill="#1e2a31">Temperatures are differences from ambient. Control input u is dimensionless.</text>
+</g>
+</svg>

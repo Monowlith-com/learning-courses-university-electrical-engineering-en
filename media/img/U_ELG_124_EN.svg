@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Two Dielectrics: Field and Voltage</title><desc id="desc">Parallel-plate capacitor with two layers of equal thickness. Electric field strengths of 16 and 8 kV/m, constant normal flux density, potential drops of eight and four volts.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Two Dielectrics: Field and Voltage</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">U = 12 V · d₁ = d₂ = 0.50 mm · no free charge at the interface</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<rect x="115" y="170" width="365" height="148" rx="0" fill="#edf4f8" stroke="#dce2e8" stroke-width="1.5"/>
+<rect x="480" y="170" width="365" height="148" rx="0" fill="#e7f2eb" stroke="#dce2e8" stroke-width="1.5"/>
+<rect x="100" y="155" width="15" height="179" rx="0" fill="#18212b" stroke="#18212b" stroke-width="1.5"/>
+<rect x="845" y="155" width="15" height="179" rx="0" fill="#18212b" stroke="#18212b" stroke-width="1.5"/>
+<text x="107.00" y="145.00" font-size="26" fill="#b35c22" text-anchor="middle" font-weight="700">+</text>
+<text x="852.00" y="145.00" font-size="26" fill="#1f5679" text-anchor="middle" font-weight="700">−</text>
+<text x="297.00" y="196.00" font-size="22" fill="#1f5679" text-anchor="middle" font-weight="700">εr,1 = 2</text>
+<text x="662.00" y="196.00" font-size="22" fill="#237b66" text-anchor="middle" font-weight="700">εr,2 = 4</text>
+<line x1="200.00" y1="231.00" x2="400.00" y2="231.00" stroke="#1f5679" stroke-width="4"/>
+<polygon points="400.00,231.00 384.92,238.85 384.92,223.15" fill="#1f5679"/>
+<line x1="608.00" y1="231.00" x2="708.00" y2="231.00" stroke="#237b66" stroke-width="4"/>
+<polygon points="708.00,231.00 692.92,238.85 692.92,223.15" fill="#237b66"/>
+<line x1="200.00" y1="270.00" x2="400.00" y2="270.00" stroke="#1f5679" stroke-width="4"/>
+<polygon points="400.00,270.00 384.92,277.85 384.92,262.15" fill="#1f5679"/>
+<line x1="608.00" y1="270.00" x2="708.00" y2="270.00" stroke="#237b66" stroke-width="4"/>
+<polygon points="708.00,270.00 692.92,277.85 692.92,262.15" fill="#237b66"/>
+<text x="297.00" y="306.00" font-size="19" fill="#1f5679" text-anchor="middle" font-weight="700">E₁ = 16 kV/m</text>
+<text x="662.00" y="306.00" font-size="19" fill="#237b66" text-anchor="middle" font-weight="700">E₂ = 8 kV/m</text>
+<line x1="160.00" y1="347.00" x2="800.00" y2="347.00" stroke="#b35c22" stroke-width="3"/>
+<polygon points="800.00,347.00 786.25,354.16 786.25,339.84" fill="#b35c22"/>
+<text x="480.00" y="369.00" font-size="19" fill="#b35c22" text-anchor="middle" font-weight="700">Dₙ uniform throughout</text>
+<line x1="115.00" y1="392.00" x2="115.00" y2="475.00" stroke="#637383" stroke-width="2"/>
+<line x1="115.00" y1="475.00" x2="845.00" y2="475.00" stroke="#637383" stroke-width="2"/>
+<polyline points="115.00,392.00 480.00,447.33 845.00,475.00" fill="none" stroke="#18212b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="480.00" y1="447.33" x2="480.00" y2="475.00" stroke="#dce2e8" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="115.00" cy="392.00" r="5" fill="#18212b"/>
+<text x="107.00" y="387.00" font-size="17" fill="#18212b" text-anchor="end" font-weight="400">12 V</text>
+<circle cx="480.00" cy="447.33" r="5" fill="#18212b"/>
+<text x="490.00" y="437.33" font-size="17" fill="#18212b" text-anchor="start" font-weight="400">4 V</text>
+<circle cx="845.00" cy="475.00" r="5" fill="#18212b"/>
+<text x="855.00" y="465.00" font-size="17" fill="#18212b" text-anchor="start" font-weight="400">0 V</text>
+<text x="115.00" y="508.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<text x="480.00" y="508.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">0.50 mm</text>
+<text x="845.00" y="508.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">1.00 mm</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Potential relative to the negative plate. Same Dₙ, different potential slopes.</text></g></svg>

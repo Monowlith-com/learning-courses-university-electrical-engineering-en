@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="600" viewBox="0 0 960 600" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Microcontroller: Data and Event Paths</title>
+ <desc>Block diagram of an MCU with CPU, flash, SRAM, bus, timer, interrupt controller and sensor/UART interfaces.</desc>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Microcontroller: Data and Event Paths</dc:title>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 600 
+L 960 600 
+L 960 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 120 201.771429 
+L 300 201.771429 
+Q 305.76 201.771429 305.76 196.285714 
+L 305.76 127.714286 
+Q 305.76 122.228571 300 122.228571 
+L 120 122.228571 
+Q 114.24 122.228571 114.24 127.714286 
+L 114.24 196.285714 
+Q 114.24 201.771429 120 201.771429 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #246b91; fill-opacity: 0.086275; stroke: #246b91; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 390 201.771429 
+L 570 201.771429 
+Q 575.76 201.771429 575.76 196.285714 
+L 575.76 127.714286 
+Q 575.76 122.228571 570 122.228571 
+L 390 122.228571 
+Q 384.24 122.228571 384.24 127.714286 
+L 384.24 196.285714 
+Q 384.24 201.771429 390 201.771429 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #246b91; fill-opacity: 0.086275; stroke: #246b91; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 660 201.771429 
+L 840 201.771429 
+Q 845.76 201.771429 845.76 196.285714 
+L 845.76 127.714286 
+Q 845.76 122.228571 840 122.228571 
+L 660 122.228571 
+Q 654.24 122.228571 654.24 127.714286 
+L 654.24 196.285714 
+Q 654.24 201.771429 660 201.771429 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #246b91; fill-opacity: 0.086275; stroke: #246b91; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 192 338.914286 
+L 768 338.914286 
+Q 773.76 338.914286 773.76 333.428571 
+L 773.76 288.857143 
+Q 773.76 283.371429 768 283.371429 
+L 192 283.371429 
+Q 186.24 283.371429 186.24 288.857143 
+L 186.24 333.428571 
+Q 186.24 338.914286 192 338.914286 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #616b73; fill-opacity: 0.086275; stroke: #616b73; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 120 476.057143 
+L 300 476.057143 
+Q 305.76 476.057143 305.76 470.571429 
+L 305.76 402 
+Q 305.76 396.514286 300 396.514286 
+L 120 396.514286 
+Q 114.24 396.514286 114.24 402 
+L 114.24 470.571429 
+Q 114.24 476.057143 120 476.057143 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #317b63; fill-opacity: 0.086275; stroke: #317b63; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 390 476.057143 
+L 570 476.057143 
+Q 575.76 476.057143 575.76 470.571429 
+L 575.76 402 
+Q 575.76 396.514286 570 396.514286 
+L 390 396.514286 
+Q 384.24 396.514286 384.24 402 
+L 384.24 470.571429 
+Q 384.24 476.057143 390 476.057143 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #317b63; fill-opacity: 0.086275; stroke: #317b63; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 660 476.057143 
+L 840 476.057143 
+Q 845.76 476.057143 845.76 470.571429 
+L 845.76 402 
+Q 845.76 396.514286 840 396.514286 
+L 660 396.514286 
+Q 654.24 396.514286 654.24 402 
+L 654.24 470.571429 
+Q 654.24 476.057143 660 476.057143 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #317b63; fill-opacity: 0.086275; stroke: #317b63; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 296.4 273.771429 
+L 447.6 273.771429 
+Q 453.36 273.771429 453.36 268.285714 
+L 453.36 230.571429 
+Q 453.36 225.085714 447.6 225.085714 
+L 296.4 225.085714 
+Q 290.64 225.085714 290.64 230.571429 
+L 290.64 268.285714 
+Q 290.64 273.771429 296.4 273.771429 
+z
+" clip-path="url(#p31c59f9df8)" style="fill: #b66b37; fill-opacity: 0.086275; stroke: #b66b37; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #233747" transform="translate(188.945312 158.024656)">Flash</text>
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #233747" transform="translate(184.663281 173.701594)">64 KiB</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #233747" transform="translate(464.047656 158.024656)">CPU</text>
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #233747" transform="translate(450.92375 173.701594)">48 MHz</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #233747" transform="translate(727.185469 158.024656)">SRAM</text>
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #233747" transform="translate(729.53375 173.701594)">8 KiB</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233747" x="480" y="315.005982" transform="rotate(-0 480 315.005982)">Internal data and address bus</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233747" x="210" y="440.148839" transform="rotate(-0 210 440.148839)">Timer / GPIO</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233747" x="480" y="440.148839" transform="rotate(-0 480 440.148839)">I²C / ADC</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233747" x="750" y="440.148839" transform="rotate(-0 750 440.148839)">UART / DMA</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 210 203.098175 
+Q 210 242.571429 210 282.044682 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 207.4 208.298175 
+L 210 203.098175 
+L 212.6 208.298175 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 212.6 276.844682 
+L 210 282.044682 
+L 207.4 276.844682 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 210 340.241033 
+Q 210 367.371429 210 394.501825 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 207.4 345.441033 
+L 210 340.241033 
+L 212.6 345.441033 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 212.6 389.301825 
+L 210 394.501825 
+L 207.4 389.301825 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 480 203.098175 
+Q 480 242.571429 480 282.044682 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 477.4 208.298175 
+L 480 203.098175 
+L 482.6 208.298175 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 482.6 276.844682 
+L 480 282.044682 
+L 477.4 276.844682 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 480 340.241033 
+Q 480 367.371429 480 394.501825 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 477.4 345.441033 
+L 480 340.241033 
+L 482.6 345.441033 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 482.6 389.301825 
+L 480 394.501825 
+L 477.4 389.301825 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 750 203.098175 
+Q 750 242.571429 750 282.044682 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 747.4 208.298175 
+L 750 203.098175 
+L 752.6 208.298175 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 752.6 276.844682 
+L 750 282.044682 
+L 747.4 276.844682 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 750 340.241033 
+Q 750 367.371429 750 394.501825 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 747.4 345.441033 
+L 750 340.241033 
+L 752.6 345.441033 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 752.6 389.301825 
+L 750 394.501825 
+L 747.4 389.301825 
+" style="fill: none; stroke: #616b73; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233747" x="372" y="252.463884" transform="rotate(-0 372 252.463884)">IRQ controller</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 440.4 225.085714 
+Q 440.4 213.428571 440.4 203.78389 
+" style="fill: none; stroke: #b66b37; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 437.8 208.98389 
+L 440.4 203.78389 
+L 443 208.98389 
+z
+" style="fill: #b66b37; stroke: #b66b37; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #616b73" x="480" y="515.828571" transform="rotate(-0 480 515.828571)">Model architecture: peripherals transfer data and signal events.</text>
+   </g>
+  </g>
+  <g id="text_10">
+   <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233747" x="480" y="39.196875" transform="rotate(-0 480 39.196875)">Microcontroller: Data and Event Paths</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p31c59f9df8">
+   <rect x="48" y="66" width="864" height="480"/>
+  </clipPath>
+ </defs>
+</svg>

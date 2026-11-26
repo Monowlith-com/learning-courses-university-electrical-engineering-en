@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">From Measurement Location to Digital Code</title>
+<desc id="desc">Five stages of the measurement chain. Finite input resistance changes the signal value before digitisation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#18212b"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="18" fill="#fff" stroke="#d9dee3" stroke-width="2"/>
+<g font-family="Arial, sans-serif">
+<text x="54" y="78" font-size="33" fill="#18212b" font-weight="700" text-anchor="start">From Measurement Location to Digital Code</text>
+<path d="M54 106 H906" fill="none" stroke="#d9dee3" stroke-width="2"/>
+<rect x="54" y="208" width="148" height="143" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="128" y="250" font-size="21" fill="#18212b" font-weight="700" text-anchor="middle">Location</text>
+<text x="128" y="290" font-size="20" fill="#59636e" font-weight="400" text-anchor="middle">Temperature</text>
+<text x="128" y="326" font-size="19" fill="#225c88" font-weight="400" text-anchor="middle">K</text>
+<path d="M203 270 H222" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="226" y="208" width="148" height="143" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="300" y="250" font-size="21" fill="#18212b" font-weight="700" text-anchor="middle">Sensor</text>
+<text x="300" y="290" font-size="20" fill="#59636e" font-weight="400" text-anchor="middle">Resistance</text>
+<text x="300" y="326" font-size="19" fill="#225c88" font-weight="400" text-anchor="middle">Ω</text>
+<path d="M375 270 H394" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="398" y="208" width="148" height="143" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="472" y="250" font-size="21" fill="#18212b" font-weight="700" text-anchor="middle">Test point</text>
+<text x="472" y="290" font-size="20" fill="#59636e" font-weight="400" text-anchor="middle">Voltage</text>
+<text x="472" y="326" font-size="19" fill="#225c88" font-weight="400" text-anchor="middle">V</text>
+<path d="M547 270 H566" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="570" y="208" width="148" height="143" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="644" y="250" font-size="21" fill="#18212b" font-weight="700" text-anchor="middle">Amplifier</text>
+<text x="644" y="290" font-size="20" fill="#59636e" font-weight="400" text-anchor="middle">Signal level</text>
+<text x="644" y="326" font-size="19" fill="#225c88" font-weight="400" text-anchor="middle">V</text>
+<path d="M719 270 H738" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="742" y="208" width="148" height="143" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="816" y="250" font-size="21" fill="#18212b" font-weight="700" text-anchor="middle">ADC</text>
+<text x="816" y="290" font-size="20" fill="#59636e" font-weight="400" text-anchor="middle">Digital code</text>
+<text x="816" y="326" font-size="19" fill="#225c88" font-weight="400" text-anchor="middle">0 to 4095</text>
+<path d="M472 354 V405" fill="none" stroke="#23675f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="472" y="451" font-size="23" fill="#23675f" font-weight="700" text-anchor="middle">Input loading at the voltage divider</text>
+<text x="472" y="488" font-size="20" fill="#59636e" font-weight="400" text-anchor="middle">The input resistance loads the test point and reduces the voltage.</text>
+</g>
+</svg>

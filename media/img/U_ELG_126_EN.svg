@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Induction During a Flux Ramp</title><desc id="desc">Linear increase of normal flux density from 20 to 50 mT in 15 ms and constant induced EMF of minus 96 mV within the interval.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Induction During a Flux Ramp</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Stationary winding · N = 80 · A = 6 cm² · R = 12 Ω</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<line x1="125.00" y1="295.00" x2="880.00" y2="295.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="301.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="125.00" y1="252.00" x2="880.00" y2="252.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="258.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">20</text>
+<line x1="125.00" y1="209.00" x2="880.00" y2="209.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="215.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">40</text>
+<line x1="125.00" y1="166.00" x2="880.00" y2="166.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="172.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">60</text>
+<line x1="125.00" y1="166.00" x2="125.00" y2="295.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="125.00" y="320.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="376.67" y1="166.00" x2="376.67" y2="295.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="376.67" y="320.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">5</text>
+<line x1="628.33" y1="166.00" x2="628.33" y2="295.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="628.33" y="320.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">10</text>
+<line x1="880.00" y1="166.00" x2="880.00" y2="295.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="880.00" y="320.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">15</text>
+<line x1="125.00" y1="295.00" x2="880.00" y2="295.00" stroke="#18212b" stroke-width="2"/>
+<line x1="125.00" y1="166.00" x2="125.00" y2="295.00" stroke="#18212b" stroke-width="2"/>
+<text x="125.00" y="151.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">Bₙ [mT]</text>
+<text x="880.00" y="345.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400"></text>
+<polyline points="125.00,252.00 880.00,187.50" fill="none" stroke="#1f5679" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="125.00" cy="252.00" r="5" fill="#1f5679"/>
+<circle cx="880.00" cy="187.50" r="5" fill="#1f5679"/>
+<text x="440.00" y="187.00" font-size="20" fill="#1f5679" text-anchor="start" font-weight="700">Slope: +2 T/s</text>
+<line x1="125.00" y1="463.00" x2="880.00" y2="463.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="469.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">-120</text>
+<line x1="125.00" y1="443.80" x2="880.00" y2="443.80" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="449.80" font-size="16" fill="#637383" text-anchor="end" font-weight="400">-96</text>
+<line x1="125.00" y1="367.00" x2="880.00" y2="367.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="113.00" y="373.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="125.00" y1="367.00" x2="125.00" y2="463.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="125.00" y="488.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="376.67" y1="367.00" x2="376.67" y2="463.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="376.67" y="488.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">5</text>
+<line x1="628.33" y1="367.00" x2="628.33" y2="463.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="628.33" y="488.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">10</text>
+<line x1="880.00" y1="367.00" x2="880.00" y2="463.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="880.00" y="488.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">15</text>
+<line x1="125.00" y1="463.00" x2="880.00" y2="463.00" stroke="#18212b" stroke-width="2"/>
+<line x1="125.00" y1="367.00" x2="125.00" y2="463.00" stroke="#18212b" stroke-width="2"/>
+<text x="125.00" y="352.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">EMF [mV]</text>
+<text x="880.00" y="513.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">t [ms]</text>
+<line x1="131.04" y1="443.80" x2="873.96" y2="443.80" stroke="#b35c22" stroke-width="4"/>
+<circle cx="125.0" cy="443.8" r="6" fill="white" stroke="#b35c22" stroke-width="3"/>
+<circle cx="880.0" cy="443.8" r="6" fill="white" stroke="#b35c22" stroke-width="3"/>
+<text x="490.00" y="411.00" font-size="21" fill="#b35c22" text-anchor="middle" font-weight="700">i = −8 mA in the resistive model</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">EMF is specified for 0 &lt; t &lt; 15 ms; the endpoints are not modelled.</text></g></svg>

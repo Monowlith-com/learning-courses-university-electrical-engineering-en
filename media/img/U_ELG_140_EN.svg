@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Measurement Gap and Held Substitute Value</title><desc id="desc">Simulated temperature difference and measurement estimate used around the ten-second raw-data gap.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Measurement Gap and Held Substitute Value</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Measurement chain case · Euler step 1 s · 240–275 s</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<line x1="110.00" y1="412.00" x2="890.00" y2="412.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="418.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">3.7</text>
+<line x1="110.00" y1="352.00" x2="890.00" y2="352.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="358.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">3.8</text>
+<line x1="110.00" y1="292.00" x2="890.00" y2="292.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="298.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">3.9</text>
+<line x1="110.00" y1="232.00" x2="890.00" y2="232.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="238.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">4.0</text>
+<line x1="110.00" y1="172.00" x2="890.00" y2="172.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="178.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">4.1</text>
+<line x1="110.00" y1="172.00" x2="110.00" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="110.00" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">240</text>
+<line x1="221.43" y1="172.00" x2="221.43" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="221.43" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">245</text>
+<line x1="332.86" y1="172.00" x2="332.86" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="332.86" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">250</text>
+<line x1="444.29" y1="172.00" x2="444.29" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="444.29" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">255</text>
+<line x1="555.71" y1="172.00" x2="555.71" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="555.71" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">260</text>
+<line x1="667.14" y1="172.00" x2="667.14" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="667.14" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">265</text>
+<line x1="778.57" y1="172.00" x2="778.57" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="778.57" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">270</text>
+<line x1="890.00" y1="172.00" x2="890.00" y2="442.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="890.00" y="467.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">275</text>
+<line x1="110.00" y1="442.00" x2="890.00" y2="442.00" stroke="#18212b" stroke-width="2"/>
+<line x1="110.00" y1="172.00" x2="110.00" y2="442.00" stroke="#18212b" stroke-width="2"/>
+<text x="110.00" y="157.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">Temperature difference [K]</text>
+<text x="890.00" y="492.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">t [s]</text>
+<rect x="332.85714285714283" y="172" width="222.85714285714283" height="270" rx="0" fill="#fff2de" stroke="#fff2de" stroke-width="1.5"/>
+<line x1="110.00" y1="232.00" x2="890.00" y2="232.00" stroke="#637383" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="444.29" y="197.00" font-size="19" fill="#b35c22" text-anchor="middle" font-weight="700">Raw value missing</text>
+<polyline points="110.00,229.54 132.29,239.62 154.57,249.50 176.86,259.17 199.14,268.56 221.43,277.62 243.71,286.28 266.00,294.44 288.29,302.04 310.57,309.03 332.86,315.36 355.14,321.55 377.43,327.59 399.71,333.50 422.00,339.28 444.29,344.92 466.57,350.42 488.86,355.80 511.14,361.05 533.43,366.17 555.71,371.18 578.00,373.68 600.29,376.29 622.57,378.96 644.86,381.65 667.14,384.28 689.43,386.75 711.71,388.98 734.00,390.90 756.29,392.42 778.57,393.52 800.86,394.18 823.14,394.41 845.43,394.26 867.71,393.80 890.00,393.12" fill="none" stroke="#1f5679" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="110.00,229.54 132.29,230.53 154.57,232.22 176.86,235.37 199.14,240.59 221.43,248.21 243.71,258.31 266.00,270.65 288.29,284.76 310.57,299.94 332.86,299.94 355.14,299.94 377.43,299.94 399.71,299.94 422.00,299.94 444.29,299.94 466.57,299.94 488.86,299.94 511.14,299.94 533.43,299.94 555.71,371.18 578.00,364.59 600.29,359.00 622.57,355.17 644.86,353.68 667.14,354.87 689.43,358.78 711.71,365.19 734.00,373.61 756.29,383.33 778.57,393.52 800.86,403.27 823.14,411.69 845.43,418.05 867.71,421.77 890.00,422.53" fill="none" stroke="#237b66" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.00" cy="229.54" r="3" fill="#1f5679"/>
+<circle cx="110.00" cy="229.54" r="3" fill="#237b66"/>
+<circle cx="132.29" cy="239.62" r="3" fill="#1f5679"/>
+<circle cx="132.29" cy="230.53" r="3" fill="#237b66"/>
+<circle cx="154.57" cy="249.50" r="3" fill="#1f5679"/>
+<circle cx="154.57" cy="232.22" r="3" fill="#237b66"/>
+<circle cx="176.86" cy="259.17" r="3" fill="#1f5679"/>
+<circle cx="176.86" cy="235.37" r="3" fill="#237b66"/>
+<circle cx="199.14" cy="268.56" r="3" fill="#1f5679"/>
+<circle cx="199.14" cy="240.59" r="3" fill="#237b66"/>
+<circle cx="221.43" cy="277.62" r="3" fill="#1f5679"/>
+<circle cx="221.43" cy="248.21" r="3" fill="#237b66"/>
+<circle cx="243.71" cy="286.28" r="3" fill="#1f5679"/>
+<circle cx="243.71" cy="258.31" r="3" fill="#237b66"/>
+<circle cx="266.00" cy="294.44" r="3" fill="#1f5679"/>
+<circle cx="266.00" cy="270.65" r="3" fill="#237b66"/>
+<circle cx="288.29" cy="302.04" r="3" fill="#1f5679"/>
+<circle cx="288.29" cy="284.76" r="3" fill="#237b66"/>
+<circle cx="310.57" cy="309.03" r="3" fill="#1f5679"/>
+<circle cx="310.57" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="332.86" cy="315.36" r="3" fill="#1f5679"/>
+<circle cx="332.86" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="355.14" cy="321.55" r="3" fill="#1f5679"/>
+<circle cx="355.14" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="377.43" cy="327.59" r="3" fill="#1f5679"/>
+<circle cx="377.43" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="399.71" cy="333.50" r="3" fill="#1f5679"/>
+<circle cx="399.71" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="422.00" cy="339.28" r="3" fill="#1f5679"/>
+<circle cx="422.00" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="444.29" cy="344.92" r="3" fill="#1f5679"/>
+<circle cx="444.29" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="466.57" cy="350.42" r="3" fill="#1f5679"/>
+<circle cx="466.57" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="488.86" cy="355.80" r="3" fill="#1f5679"/>
+<circle cx="488.86" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="511.14" cy="361.05" r="3" fill="#1f5679"/>
+<circle cx="511.14" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="533.43" cy="366.17" r="3" fill="#1f5679"/>
+<circle cx="533.43" cy="299.94" r="3" fill="#237b66"/>
+<circle cx="555.71" cy="371.18" r="3" fill="#1f5679"/>
+<circle cx="555.71" cy="371.18" r="3" fill="#237b66"/>
+<circle cx="578.00" cy="373.68" r="3" fill="#1f5679"/>
+<circle cx="578.00" cy="364.59" r="3" fill="#237b66"/>
+<circle cx="600.29" cy="376.29" r="3" fill="#1f5679"/>
+<circle cx="600.29" cy="359.00" r="3" fill="#237b66"/>
+<circle cx="622.57" cy="378.96" r="3" fill="#1f5679"/>
+<circle cx="622.57" cy="355.17" r="3" fill="#237b66"/>
+<circle cx="644.86" cy="381.65" r="3" fill="#1f5679"/>
+<circle cx="644.86" cy="353.68" r="3" fill="#237b66"/>
+<circle cx="667.14" cy="384.28" r="3" fill="#1f5679"/>
+<circle cx="667.14" cy="354.87" r="3" fill="#237b66"/>
+<circle cx="689.43" cy="386.75" r="3" fill="#1f5679"/>
+<circle cx="689.43" cy="358.78" r="3" fill="#237b66"/>
+<circle cx="711.71" cy="388.98" r="3" fill="#1f5679"/>
+<circle cx="711.71" cy="365.19" r="3" fill="#237b66"/>
+<circle cx="734.00" cy="390.90" r="3" fill="#1f5679"/>
+<circle cx="734.00" cy="373.61" r="3" fill="#237b66"/>
+<circle cx="756.29" cy="392.42" r="3" fill="#1f5679"/>
+<circle cx="756.29" cy="383.33" r="3" fill="#237b66"/>
+<circle cx="778.57" cy="393.52" r="3" fill="#1f5679"/>
+<circle cx="778.57" cy="393.52" r="3" fill="#237b66"/>
+<circle cx="800.86" cy="394.18" r="3" fill="#1f5679"/>
+<circle cx="800.86" cy="403.27" r="3" fill="#237b66"/>
+<circle cx="823.14" cy="394.41" r="3" fill="#1f5679"/>
+<circle cx="823.14" cy="411.69" r="3" fill="#237b66"/>
+<circle cx="845.43" cy="394.26" r="3" fill="#1f5679"/>
+<circle cx="845.43" cy="418.05" r="3" fill="#237b66"/>
+<circle cx="867.71" cy="393.80" r="3" fill="#1f5679"/>
+<circle cx="867.71" cy="421.77" r="3" fill="#237b66"/>
+<circle cx="890.00" cy="393.12" r="3" fill="#1f5679"/>
+<circle cx="890.00" cy="422.53" r="3" fill="#237b66"/>
+<text x="120.00" y="133.00" font-size="19" fill="#1f5679" text-anchor="start" font-weight="700">● State x</text>
+<text x="360.00" y="133.00" font-size="19" fill="#237b66" text-anchor="start" font-weight="700">● Estimate y used</text>
+<text x="885.00" y="133.00" font-size="18" fill="#637383" text-anchor="end" font-weight="400">Reference 4 K</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Raw values are missing from 250 to 259 s; y holds the sample at 249 s.</text></g></svg>

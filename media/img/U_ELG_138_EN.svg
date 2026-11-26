@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Supply Model: Two Load States</title><desc id="desc">Stacked bars for active and reactive power balances in two steady states of the model.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Supply Model: Two Load States</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Three-phase totals · common scale within each group of bars</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="75.00" y="150.00" font-size="21" fill="#18212b" text-anchor="start" font-weight="700">Active power [W]</text>
+<text x="77.00" y="190.00" font-size="22" fill="#18212b" text-anchor="start" font-weight="700">A</text>
+<rect x="160" y="168" width="272.24999999999994" height="31" rx="2" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<rect x="432.24999999999994" y="168" width="18.15" height="31" rx="2" fill="#b35c22" stroke="#b35c22" stroke-width="1.5"/>
+<text x="170.00" y="190.00" font-size="18" fill="#ffffff" text-anchor="start" font-weight="700">2 025</text>
+<text x="462.40" y="190.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="400">2 160</text>
+<text x="87.00" y="211.00" font-size="15" fill="#18212b" text-anchor="start" font-weight="400"></text>
+<text x="77.00" y="244.00" font-size="22" fill="#18212b" text-anchor="start" font-weight="700">B</text>
+<rect x="160" y="222" width="482.3252595155711" height="31" rx="2" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<rect x="642.3252595155711" y="222" width="64.31003460207614" height="31" rx="2" fill="#b35c22" stroke="#b35c22" stroke-width="1.5"/>
+<text x="170.00" y="244.00" font-size="18" fill="#ffffff" text-anchor="start" font-weight="700">3 588</text>
+<text x="718.64" y="244.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="400">4 066</text>
+<text x="87.00" y="265.00" font-size="15" fill="#18212b" text-anchor="start" font-weight="400"></text>
+<text x="160.00" y="287.00" font-size="17" fill="#237b66" text-anchor="start" font-weight="700">Load</text>
+<text x="261.00" y="287.00" font-size="17" fill="#b35c22" text-anchor="start" font-weight="700">Line</text>
+<text x="375.00" y="287.00" font-size="17" fill="#637383" text-anchor="start" font-weight="400">Total at right (rounded)</text>
+<text x="75.00" y="327.00" font-size="21" fill="#18212b" text-anchor="start" font-weight="700">Reactive power [var]</text>
+<text x="77.00" y="367.00" font-size="22" fill="#18212b" text-anchor="start" font-weight="700">A</text>
+<rect x="160" y="345" width="262.5267857142856" height="31" rx="2" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<rect x="422.5267857142856" y="345" width="17.501785714285706" height="31" rx="2" fill="#b35c22" stroke="#b35c22" stroke-width="1.5"/>
+<text x="170.00" y="367.00" font-size="18" fill="#ffffff" text-anchor="start" font-weight="700">1 519</text>
+<text x="452.03" y="367.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="400">1 620</text>
+<text x="87.00" y="388.00" font-size="15" fill="#18212b" text-anchor="start" font-weight="400"></text>
+<text x="77.00" y="421.00" font-size="22" fill="#18212b" text-anchor="start" font-weight="700">B</text>
+<rect x="160" y="399" width="465.0993573900149" height="31" rx="2" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<rect x="625.0993573900149" y="399" width="62.01324765200198" height="31" rx="2" fill="#b35c22" stroke="#b35c22" stroke-width="1.5"/>
+<text x="170.00" y="421.00" font-size="18" fill="#ffffff" text-anchor="start" font-weight="700">2 691</text>
+<text x="699.11" y="421.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="400">3 049</text>
+<text x="87.00" y="442.00" font-size="15" fill="#18212b" text-anchor="start" font-weight="400"></text>
+<text x="160.00" y="464.00" font-size="17" fill="#237b66" text-anchor="start" font-weight="700">Load</text>
+<text x="261.00" y="464.00" font-size="17" fill="#b35c22" text-anchor="start" font-weight="700">Line</text>
+<text x="375.00" y="464.00" font-size="17" fill="#637383" text-anchor="start" font-weight="400">Total at right (rounded)</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">η: A 93.75 % · B 88.24 %. Reactive power is not heat loss.</text></g></svg>

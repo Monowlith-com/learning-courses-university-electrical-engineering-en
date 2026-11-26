@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Moving Average</title><desc id="desc">Four discrete input and output samples of the averaging system, with x[−1] = 0.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Moving Average</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">y[n] = (x[n] + x[n−1]) / 2 · sampling interval 1 ms</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<line x1="105.00" y1="444.00" x2="440.00" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="93.00" y="450.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="105.00" y1="384.22" x2="440.00" y2="384.22" stroke="#dce2e8" stroke-width="1"/>
+<text x="93.00" y="390.22" font-size="16" fill="#637383" text-anchor="end" font-weight="400">1</text>
+<line x1="105.00" y1="324.44" x2="440.00" y2="324.44" stroke="#dce2e8" stroke-width="1"/>
+<text x="93.00" y="330.44" font-size="16" fill="#637383" text-anchor="end" font-weight="400">2</text>
+<line x1="105.00" y1="264.67" x2="440.00" y2="264.67" stroke="#dce2e8" stroke-width="1"/>
+<text x="93.00" y="270.67" font-size="16" fill="#637383" text-anchor="end" font-weight="400">3</text>
+<line x1="105.00" y1="204.89" x2="440.00" y2="204.89" stroke="#dce2e8" stroke-width="1"/>
+<text x="93.00" y="210.89" font-size="16" fill="#637383" text-anchor="end" font-weight="400">4</text>
+<line x1="136.69" y1="175.00" x2="136.69" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="136.69" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="227.23" y1="175.00" x2="227.23" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="227.23" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">1</text>
+<line x1="317.77" y1="175.00" x2="317.77" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="317.77" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">2</text>
+<line x1="408.31" y1="175.00" x2="408.31" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="408.31" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">3</text>
+<line x1="105.00" y1="444.00" x2="440.00" y2="444.00" stroke="#18212b" stroke-width="2"/>
+<line x1="105.00" y1="175.00" x2="105.00" y2="444.00" stroke="#18212b" stroke-width="2"/>
+<text x="105.00" y="160.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">Input x[n] [V]</text>
+<text x="440.00" y="494.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">n</text>
+<line x1="136.69" y1="444.00" x2="136.69" y2="324.44" stroke="#1f5679" stroke-width="3"/>
+<circle cx="136.69" cy="324.44" r="7" fill="#1f5679"/>
+<text x="136.69" y="310.44" font-size="20" fill="#1f5679" text-anchor="middle" font-weight="700">2</text>
+<line x1="227.23" y1="444.00" x2="227.23" y2="204.89" stroke="#1f5679" stroke-width="3"/>
+<circle cx="227.23" cy="204.89" r="7" fill="#1f5679"/>
+<text x="227.23" y="190.89" font-size="20" fill="#1f5679" text-anchor="middle" font-weight="700">4</text>
+<line x1="317.77" y1="444.00" x2="317.77" y2="444.00" stroke="#1f5679" stroke-width="3"/>
+<circle cx="317.77" cy="444.00" r="7" fill="#1f5679"/>
+<text x="317.77" y="430.00" font-size="20" fill="#1f5679" text-anchor="middle" font-weight="700">0</text>
+<line x1="408.31" y1="444.00" x2="408.31" y2="444.00" stroke="#1f5679" stroke-width="3"/>
+<circle cx="408.31" cy="444.00" r="7" fill="#1f5679"/>
+<text x="408.31" y="430.00" font-size="20" fill="#1f5679" text-anchor="middle" font-weight="700">0</text>
+<line x1="565.00" y1="444.00" x2="900.00" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="553.00" y="450.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="565.00" y1="384.22" x2="900.00" y2="384.22" stroke="#dce2e8" stroke-width="1"/>
+<text x="553.00" y="390.22" font-size="16" fill="#637383" text-anchor="end" font-weight="400">1</text>
+<line x1="565.00" y1="324.44" x2="900.00" y2="324.44" stroke="#dce2e8" stroke-width="1"/>
+<text x="553.00" y="330.44" font-size="16" fill="#637383" text-anchor="end" font-weight="400">2</text>
+<line x1="565.00" y1="264.67" x2="900.00" y2="264.67" stroke="#dce2e8" stroke-width="1"/>
+<text x="553.00" y="270.67" font-size="16" fill="#637383" text-anchor="end" font-weight="400">3</text>
+<line x1="565.00" y1="204.89" x2="900.00" y2="204.89" stroke="#dce2e8" stroke-width="1"/>
+<text x="553.00" y="210.89" font-size="16" fill="#637383" text-anchor="end" font-weight="400">4</text>
+<line x1="596.69" y1="175.00" x2="596.69" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="596.69" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="687.23" y1="175.00" x2="687.23" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="687.23" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">1</text>
+<line x1="777.77" y1="175.00" x2="777.77" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="777.77" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">2</text>
+<line x1="868.31" y1="175.00" x2="868.31" y2="444.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="868.31" y="469.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">3</text>
+<line x1="565.00" y1="444.00" x2="900.00" y2="444.00" stroke="#18212b" stroke-width="2"/>
+<line x1="565.00" y1="175.00" x2="565.00" y2="444.00" stroke="#18212b" stroke-width="2"/>
+<text x="565.00" y="160.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">Output y[n] [V]</text>
+<text x="900.00" y="494.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">n</text>
+<line x1="596.69" y1="444.00" x2="596.69" y2="384.22" stroke="#237b66" stroke-width="3"/>
+<circle cx="596.69" cy="384.22" r="7" fill="#237b66"/>
+<text x="596.69" y="370.22" font-size="20" fill="#237b66" text-anchor="middle" font-weight="700">1</text>
+<line x1="687.23" y1="444.00" x2="687.23" y2="264.67" stroke="#237b66" stroke-width="3"/>
+<circle cx="687.23" cy="264.67" r="7" fill="#237b66"/>
+<text x="687.23" y="250.67" font-size="20" fill="#237b66" text-anchor="middle" font-weight="700">3</text>
+<line x1="777.77" y1="444.00" x2="777.77" y2="324.44" stroke="#237b66" stroke-width="3"/>
+<circle cx="777.77" cy="324.44" r="7" fill="#237b66"/>
+<text x="777.77" y="310.44" font-size="20" fill="#237b66" text-anchor="middle" font-weight="700">2</text>
+<line x1="868.31" y1="444.00" x2="868.31" y2="444.00" stroke="#237b66" stroke-width="3"/>
+<circle cx="868.31" cy="444.00" r="7" fill="#237b66"/>
+<text x="868.31" y="430.00" font-size="20" fill="#237b66" text-anchor="middle" font-weight="700">0</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Each output uses two samples; the input value before n = 0 is zero here.</text></g></svg>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="600" viewBox="0 0 959.999976 599.999976" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Reproducible computational workflow</title>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Reproducible computational workflow</dc:title>
+    <dc:description>Data flow from model parameters and random seed through estimation to results and checksum.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 599.999976 
+L 959.999976 599.999976 
+L 959.999976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 131.673597 171.971993 
+L 828.326379 171.971993 
+Q 839.155179 171.971993 839.155179 165.203993 
+L 839.155179 107.675996 
+Q 839.155179 100.907996 828.326379 100.907996 
+L 131.673597 100.907996 
+Q 120.844797 100.907996 120.844797 107.675996 
+L 120.844797 165.203993 
+Q 120.844797 171.971993 131.673597 171.971993 
+z
+" clip-path="url(#p48a01d5c16)" style="fill: #edf4f7; stroke: #245d80; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 131.673597 267.146989 
+L 828.326379 267.146989 
+Q 839.155179 267.146989 839.155179 260.37899 
+L 839.155179 202.850992 
+Q 839.155179 196.082992 828.326379 196.082992 
+L 131.673597 196.082992 
+Q 120.844797 196.082992 120.844797 202.850992 
+L 120.844797 260.37899 
+Q 120.844797 267.146989 131.673597 267.146989 
+z
+" clip-path="url(#p48a01d5c16)" style="fill: #f5f6f4; stroke: #245d80; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 131.673597 362.321986 
+L 828.326379 362.321986 
+Q 839.155179 362.321986 839.155179 355.553986 
+L 839.155179 298.025988 
+Q 839.155179 291.257988 828.326379 291.257988 
+L 131.673597 291.257988 
+Q 120.844797 291.257988 120.844797 298.025988 
+L 120.844797 355.553986 
+Q 120.844797 362.321986 131.673597 362.321986 
+z
+" clip-path="url(#p48a01d5c16)" style="fill: #edf4f7; stroke: #245d80; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 131.673597 457.496982 
+L 828.326379 457.496982 
+Q 839.155179 457.496982 839.155179 450.728982 
+L 839.155179 393.200984 
+Q 839.155179 386.432985 828.326379 386.432985 
+L 131.673597 386.432985 
+Q 120.844797 386.432985 120.844797 393.200984 
+L 120.844797 450.728982 
+Q 120.844797 457.496982 131.673597 457.496982 
+z
+" clip-path="url(#p48a01d5c16)" style="fill: #f5f6f4; stroke: #245d80; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 131.673597 552.671978 
+L 828.326379 552.671978 
+Q 839.155179 552.671978 839.155179 545.903978 
+L 839.155179 488.37598 
+Q 839.155179 481.607981 828.326379 481.607981 
+L 131.673597 481.607981 
+Q 120.844797 481.607981 120.844797 488.37598 
+L 120.844797 545.903978 
+Q 120.844797 552.671978 131.673597 552.671978 
+z
+" clip-path="url(#p48a01d5c16)" style="fill: #edf4f7; stroke: #245d80; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #245d80" x="479.999988" y="43.452655" transform="rotate(-0 479.999988 43.452655)">Reproducible computational workflow</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #586570" x="479.999988" y="71.579997" transform="rotate(-0 479.999988 71.579997)">Reproducible numerical experiment</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245d80" x="155.135996" y="131.496464" transform="rotate(-0 155.135996 131.496464)">1  Configuration</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="155.135996" y="151.595244" transform="rotate(-0 155.135996 151.595244)">K, τ, time grid, power, noise model, seeds</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 479.999988 173.407518 
+Q 479.999988 184.027266 479.999988 192.969962 
+" style="fill: none; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 482.599988 187.769962 
+L 479.999988 192.969962 
+L 477.399988 187.769962 
+z
+" style="fill: #586570; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245d80" x="155.135996" y="226.612866" transform="rotate(-0 155.135996 226.612866)">2  Generate data</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="155.135996" y="246.77024" transform="rotate(-0 155.135996 246.77024)">Separate fitting and test runs; raw values unchanged</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 479.999988 268.582515 
+Q 479.999988 279.202262 479.999988 288.144958 
+" style="fill: none; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 482.599988 282.944958 
+L 479.999988 288.144958 
+L 477.399988 282.944958 
+z
+" style="fill: #586570; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245d80" x="155.135996" y="321.90505" transform="rotate(-0 155.135996 321.90505)">3  Identify model</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="155.135996" y="341.945236" transform="rotate(-0 155.135996 341.945236)">Grid for τ; least squares for K</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 479.999988 363.757511 
+Q 479.999988 374.377258 479.999988 383.319954 
+" style="fill: none; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 482.599988 378.119954 
+L 479.999988 383.319954 
+L 477.399988 378.119954 
+z
+" style="fill: #586570; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245d80" x="155.135996" y="417.126921" transform="rotate(-0 155.135996 417.126921)">4  Check independently</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="155.135996" y="437.120233" transform="rotate(-0 155.135996 437.120233)">Exact state recursion and held-out data</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 479.999988 458.932507 
+Q 479.999988 469.552254 479.999988 478.494951 
+" style="fill: none; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 482.599988 473.294951 
+L 479.999988 478.494951 
+L 477.399988 473.294951 
+z
+" style="fill: #586570; stroke: #586570; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245d80" x="155.135996" y="512.196448" transform="rotate(-0 155.135996 512.196448)">5  Preserve results</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="155.135996" y="532.295229" transform="rotate(-0 155.135996 532.295229)">Metrics, versions and SHA-256 of fitting values</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p48a01d5c16">
+   <rect x="28.799999" y="17.999999" width="902.399977" height="563.999977"/>
+  </clipPath>
+ </defs>
+</svg>

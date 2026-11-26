@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Test Requirements on the Timeline</title><desc id="desc">Timeline of the three test cases and requirements A1 to A4; bars indicate test windows, not measurements.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Test Requirements on the Timeline</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Reference step at 0 s · observation until 720 s</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<line x1="230.00" y1="160.00" x2="230.00" y2="428.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="230.00" y="151.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="311.25" y1="160.00" x2="311.25" y2="428.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="311.25" y="151.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">90</text>
+<line x1="446.67" y1="160.00" x2="446.67" y2="428.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="446.67" y="151.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">240</text>
+<line x1="609.17" y1="160.00" x2="609.17" y2="428.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="609.17" y="151.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">420</text>
+<line x1="880.00" y1="160.00" x2="880.00" y2="428.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="880.00" y="151.00" font-size="17" fill="#637383" text-anchor="middle" font-weight="400">720</text>
+<text x="900.00" y="151.00" font-size="16" fill="#637383" text-anchor="start" font-weight="400">s</text>
+<text x="55.00" y="202.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="700">A1 · Baseline</text>
+<rect x="230.0" y="180" width="81.25" height="29" rx="2" fill="#1f5679" stroke="#1f5679" stroke-width="1.5"/>
+<text x="323.25" y="201.00" font-size="18" fill="#1f5679" text-anchor="start" font-weight="400">x ≥ 3.6 K by 90 s</text>
+<text x="55.00" y="266.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="700">A2 · All cases</text>
+<rect x="230.0" y="244" width="650.0" height="29" rx="2" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<text x="555.00" y="265.00" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="700">0 ≤ u ≤ 1</text>
+<text x="55.00" y="330.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="700">A3 · Both disturbed cases</text>
+<rect x="609.1666666666667" y="308" width="270.83333333333326" height="29" rx="2" fill="#b35c22" stroke="#b35c22" stroke-width="1.5"/>
+<text x="744.58" y="329.00" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="700">|4 K − x| ≤ 0.10 K</text>
+<text x="55.00" y="394.00" font-size="18" fill="#18212b" text-anchor="start" font-weight="700">A4 · Measurement chain</text>
+<rect x="455.69444444444446" y="372" width="9.027777777777771" height="29" rx="2" fill="#1f5679" stroke="#1f5679" stroke-width="1.5"/>
+<text x="480.72" y="393.00" font-size="18" fill="#1f5679" text-anchor="start" font-weight="400">Data gap 250–259 s (h = 1 s)</text>
+<line x1="446.67" y1="167.00" x2="446.67" y2="435.00" stroke="#b35c22" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="446.67" y="458.00" font-size="19" fill="#b35c22" text-anchor="middle" font-weight="700">Cooling from 240 s</text>
+<text x="55.00" y="494.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">A4: Raw value missing; substitute value and status remain documented.</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Test plan before simulation; A3 applies to the evaluated samples.</text></g></svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc">
+<title id="title">Capacitor Voltage after a Step</title>
+<desc id="desc">After a step, capacitor voltage rises from two volts towards five volts. After the time constant of one hundred milliseconds, it is approximately 3.90 volts.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#1f5679"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="18" fill="#fff" stroke="#d9dde1" stroke-width="2"/>
+<g font-family="Arial, sans-serif">
+<text x="56" y="81" font-size="31" fill="#18212b" font-weight="700">Capacitor Voltage after a Step</text>
+<line x1="56" y1="110" x2="904" y2="110" stroke="#d9dde1" stroke-width="2"/>
+<line x1="143.0" y1="186" x2="143.0" y2="486" stroke="#e4e6e9" stroke-width="1"/>
+<text x="135.0" y="517" font-size="20" fill="#18212b">0</text>
+<line x1="277.0" y1="186" x2="277.0" y2="486" stroke="#e4e6e9" stroke-width="1"/>
+<text x="259.0" y="517" font-size="20" fill="#18212b">100</text>
+<line x1="411.0" y1="186" x2="411.0" y2="486" stroke="#e4e6e9" stroke-width="1"/>
+<text x="393.0" y="517" font-size="20" fill="#18212b">200</text>
+<line x1="545.0" y1="186" x2="545.0" y2="486" stroke="#e4e6e9" stroke-width="1"/>
+<text x="527.0" y="517" font-size="20" fill="#18212b">300</text>
+<line x1="679.0" y1="186" x2="679.0" y2="486" stroke="#e4e6e9" stroke-width="1"/>
+<text x="661.0" y="517" font-size="20" fill="#18212b">400</text>
+<line x1="813.0" y1="186" x2="813.0" y2="486" stroke="#e4e6e9" stroke-width="1"/>
+<text x="795.0" y="517" font-size="20" fill="#18212b">500</text>
+<line x1="143" y1="486.0" x2="813" y2="486.0" stroke="#e4e6e9" stroke-width="1"/>
+<text x="113" y="493.0" font-size="20" fill="#18212b">0</text>
+<line x1="143" y1="431.45454545454544" x2="813" y2="431.45454545454544" stroke="#e4e6e9" stroke-width="1"/>
+<text x="113" y="438.45454545454544" font-size="20" fill="#18212b">1</text>
+<line x1="143" y1="376.9090909090909" x2="813" y2="376.9090909090909" stroke="#e4e6e9" stroke-width="1"/>
+<text x="113" y="383.9090909090909" font-size="20" fill="#18212b">2</text>
+<line x1="143" y1="322.3636363636364" x2="813" y2="322.3636363636364" stroke="#e4e6e9" stroke-width="1"/>
+<text x="113" y="329.3636363636364" font-size="20" fill="#18212b">3</text>
+<line x1="143" y1="267.8181818181818" x2="813" y2="267.8181818181818" stroke="#e4e6e9" stroke-width="1"/>
+<text x="113" y="274.8181818181818" font-size="20" fill="#18212b">4</text>
+<line x1="143" y1="213.27272727272725" x2="813" y2="213.27272727272725" stroke="#e4e6e9" stroke-width="1"/>
+<text x="113" y="220.27272727272725" font-size="20" fill="#18212b">5</text>
+<line x1="143" y1="486" x2="823" y2="486" stroke="#18212b" stroke-width="3"/>
+<line x1="143" y1="486" x2="143" y2="174" stroke="#18212b" stroke-width="3"/>
+<text x="62" y="156" font-size="23" fill="#18212b">Voltage uC [V]</text>
+<text x="664" y="552" font-size="23" fill="#18212b">Time t [ms]</text>
+<line x1="143" y1="213.27272727272725" x2="813" y2="213.27272727272725" stroke="#59636e" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="646" y="201.27272727272725" font-size="19" fill="#59636e">Final value: 5 V</text>
+<polyline points="143.00,376.91 149.70,368.93 156.40,361.34 163.10,354.12 169.80,347.25 176.50,340.71 183.20,334.50 189.90,328.59 196.60,322.96 203.30,317.61 210.00,312.52 216.70,307.68 223.40,303.08 230.10,298.70 236.80,294.53 243.50,290.57 250.20,286.80 256.90,283.21 263.60,279.80 270.30,276.56 277.00,273.47 283.70,270.54 290.40,267.74 297.10,265.09 303.80,262.56 310.50,260.16 317.20,257.87 323.90,255.69 330.60,253.62 337.30,251.66 344.00,249.78 350.70,248.00 357.40,246.31 364.10,244.70 370.80,243.17 377.50,241.71 384.20,240.32 390.90,239.00 397.60,237.75 404.30,236.55 411.00,235.42 417.70,234.34 424.40,233.31 431.10,232.33 437.80,231.40 444.50,230.52 451.20,229.68 457.90,228.88 464.60,228.12 471.30,227.39 478.00,226.70 484.70,226.05 491.40,225.43 498.10,224.83 504.80,224.27 511.50,223.73 518.20,223.22 524.90,222.74 531.60,222.28 538.30,221.84 545.00,221.42 551.70,221.02 558.40,220.64 565.10,220.28 571.80,219.94 578.50,219.62 585.20,219.31 591.90,219.01 598.60,218.73 605.30,218.47 612.00,218.21 618.70,217.97 625.40,217.74 632.10,217.53 638.80,217.32 645.50,217.12 652.20,216.93 658.90,216.75 665.60,216.59 672.30,216.42 679.00,216.27 685.70,216.12 692.40,215.98 699.10,215.85 705.80,215.73 712.50,215.61 719.20,215.49 725.90,215.38 732.60,215.28 739.30,215.18 746.00,215.09 752.70,215.00 759.40,214.92 766.10,214.84 772.80,214.76 779.50,214.69 786.20,214.62 792.90,214.55 799.60,214.49 806.30,214.43 813.00,214.38" fill="none" stroke="#1f5679" stroke-width="4"/>
+<circle cx="143" cy="376.9090909090909" r="5" fill="#18212b"/>
+<circle cx="277.0" cy="273.4711812825997" r="5" fill="#18212b"/>
+<line x1="277.0" y1="273.4711812825997" x2="277.0" y2="486" stroke="#1f5679" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="157" y="404" font-size="21" fill="#1f5679">Start: 2 V</text>
+<text x="301" y="310" font-size="21" fill="#1f5679">τ = 100 ms · approx. 3.90 V</text>
+</g>
+</svg>

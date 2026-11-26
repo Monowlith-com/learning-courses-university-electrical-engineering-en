@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title description">
+<title id="title">Energy Bands and Doping</title><desc id="description">Three energy diagrams show conduction and valence bands. Donor states lie near the conduction band and acceptor states near the valence band.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#52677b"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/><rect x="11" y="11" width="938" height="578" rx="8" fill="#fff" stroke="#d5dee7" stroke-width="2"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="43" y="62" fill="#243b53" font-size="29" text-anchor="start" font-weight="700">Energy Bands and Doping</text>
+<line x1="49" y1="432" x2="49" y2="127" stroke="#52677b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="39" y="113" fill="#52677b" font-size="19" text-anchor="start" font-weight="400">E</text>
+<text x="203" y="124" fill="#243b53" font-size="23" text-anchor="middle" font-weight="700">Pure silicon</text>
+<rect x="90" y="150" width="226" height="62" fill="#eaf2fb" stroke="#d5dee7" rx="3"/>
+<text x="203" y="188" fill="#265f9d" font-size="20" text-anchor="middle" font-weight="400">Conduction band</text>
+<rect x="90" y="372" width="226" height="62" fill="#e9f6f4" stroke="#d5dee7" rx="3"/>
+<text x="203" y="410" fill="#087c72" font-size="20" text-anchor="middle" font-weight="400">Valence band</text>
+<text x="486" y="124" fill="#243b53" font-size="23" text-anchor="middle" font-weight="700">n-doped</text>
+<rect x="373" y="150" width="226" height="62" fill="#eaf2fb" stroke="#d5dee7" rx="3"/>
+<text x="486" y="188" fill="#265f9d" font-size="20" text-anchor="middle" font-weight="400">Conduction band</text>
+<rect x="373" y="372" width="226" height="62" fill="#e9f6f4" stroke="#d5dee7" rx="3"/>
+<text x="486" y="410" fill="#087c72" font-size="20" text-anchor="middle" font-weight="400">Valence band</text>
+<text x="769" y="124" fill="#243b53" font-size="23" text-anchor="middle" font-weight="700">p-doped</text>
+<rect x="656" y="150" width="226" height="62" fill="#eaf2fb" stroke="#d5dee7" rx="3"/>
+<text x="769" y="188" fill="#265f9d" font-size="20" text-anchor="middle" font-weight="400">Conduction band</text>
+<rect x="656" y="372" width="226" height="62" fill="#e9f6f4" stroke="#d5dee7" rx="3"/>
+<text x="769" y="410" fill="#087c72" font-size="20" text-anchor="middle" font-weight="400">Valence band</text>
+<line x1="187" y1="349" x2="187" y2="239" stroke="#52677b" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="203" y="287" fill="#52677b" font-size="19" text-anchor="start" font-weight="400">Excitation</text>
+<line x1="392" y1="248" x2="581" y2="248" stroke="#265f9d" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="486" y="281" fill="#265f9d" font-size="19" text-anchor="middle" font-weight="400">Donor state</text>
+<line x1="675" y1="332" x2="864" y2="332" stroke="#087c72" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="769" y="308" fill="#087c72" font-size="19" text-anchor="middle" font-weight="400">Acceptor state</text>
+<line x1="100" y1="478" x2="862" y2="478" stroke="#d5dee7" stroke-width="2"/>
+<text x="480" y="524" fill="#52677b" font-size="19" text-anchor="middle" font-weight="400">Schematic energy levels. The diagram does not show spatial distances.</text>
+</g></svg>

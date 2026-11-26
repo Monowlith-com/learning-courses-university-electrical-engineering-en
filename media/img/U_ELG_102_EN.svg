@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="600" viewBox="0 0 960 600" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Data converter architectures</title>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Data converter architectures</dc:title>
+    <dc:description>Binary SAR decision, pipeline with residue and delta-sigma loop with decimation.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 600 
+L 960 600 
+L 960 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.224227 168.253545 
+L 280.478714 168.253545 
+L 280.478714 107.004086 
+L 46.224227 107.004086 
+z
+" clip-path="url(#peb6d8840a2)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 46.224227 290.752463 
+L 280.478714 290.752463 
+L 280.478714 229.503004 
+L 46.224227 229.503004 
+z
+" clip-path="url(#peb6d8840a2)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 46.224227 413.251382 
+L 280.478714 413.251382 
+L 280.478714 352.001923 
+L 46.224227 352.001923 
+z
+" clip-path="url(#peb6d8840a2)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 46.224227 535.750301 
+L 280.478714 535.750301 
+L 280.478714 474.500841 
+L 46.224227 474.500841 
+z
+" clip-path="url(#peb6d8840a2)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.351471" y="140.664128" transform="rotate(-0 163.351471 140.664128)">Sample &amp; Hold</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.351471" y="263.163046" transform="rotate(-0 163.351471 263.163046)">Comparator</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.351471" y="385.661965" transform="rotate(-0 163.351471 385.661965)">SAR register</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.351471" y="508.160884" transform="rotate(-0 163.351471 508.160884)">DAC</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 163.351471 170.253573 
+Q 163.351471 198.878382 163.351471 225.49073 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 165.951471 220.29073 
+L 163.351471 225.49073 
+L 160.751471 220.29073 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 163.351471 292.752492 
+Q 163.351471 321.377301 163.351471 347.989649 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 165.951471 342.789649 
+L 163.351471 347.989649 
+L 160.751471 342.789649 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 163.351471 415.25141 
+Q 163.351471 443.876219 163.351471 470.488567 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 165.951471 465.288567 
+L 163.351471 470.488567 
+L 160.751471 465.288567 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 45.083122 503.484426 
+Q -38.382577 382.628582 44.445122 262.692712 
+" style="fill: none; stroke: #215e88; stroke-linecap: round"/>
+    <path d="M 39.350764 265.494053 
+L 44.445122 262.692712 
+L 43.62958 268.449003 
+" style="fill: none; stroke: #215e88; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: middle" x="163.351471" y="39.754626" transform="rotate(-0 163.351471 39.754626)">SAR</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 364.963543 168.253545 
+L 599.21803 168.253545 
+L 599.21803 107.004086 
+L 364.963543 107.004086 
+z
+" clip-path="url(#p50012ab5d3)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 364.963543 290.752463 
+L 599.21803 290.752463 
+L 599.21803 229.503004 
+L 364.963543 229.503004 
+z
+" clip-path="url(#p50012ab5d3)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 364.963543 413.251382 
+L 599.21803 413.251382 
+L 599.21803 352.001923 
+L 364.963543 352.001923 
+z
+" clip-path="url(#p50012ab5d3)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 364.963543 535.750301 
+L 599.21803 535.750301 
+L 599.21803 474.500841 
+L 364.963543 474.500841 
+z
+" clip-path="url(#p50012ab5d3)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="482.090787" y="140.664128" transform="rotate(-0 482.090787 140.664128)">Stage 1: ADC</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="482.090787" y="263.163046" transform="rotate(-0 482.090787 263.163046)">DAC / difference</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="482.090787" y="385.661965" transform="rotate(-0 482.090787 385.661965)">Residue gain</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="482.090787" y="508.160884" transform="rotate(-0 482.090787 508.160884)">Stage 2: ADC</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 482.090787 170.253573 
+Q 482.090787 198.878382 482.090787 225.49073 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 484.690787 220.29073 
+L 482.090787 225.49073 
+L 479.490787 220.29073 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 482.090787 292.752492 
+Q 482.090787 321.377301 482.090787 347.989649 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 484.690787 342.789649 
+L 482.090787 347.989649 
+L 479.490787 342.789649 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 482.090787 415.25141 
+Q 482.090787 443.876219 482.090787 470.488567 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 484.690787 465.288567 
+L 482.090787 470.488567 
+L 479.490787 465.288567 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: middle" x="482.090787" y="39.754626" transform="rotate(-0 482.090787 39.754626)">Pipeline</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_17">
+    <path d="M 683.702859 168.253545 
+L 917.957346 168.253545 
+L 917.957346 107.004086 
+L 683.702859 107.004086 
+z
+" clip-path="url(#pc6e67db196)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 683.702859 290.752463 
+L 917.957346 290.752463 
+L 917.957346 229.503004 
+L 683.702859 229.503004 
+z
+" clip-path="url(#pc6e67db196)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 683.702859 413.251382 
+L 917.957346 413.251382 
+L 917.957346 352.001923 
+L 683.702859 352.001923 
+z
+" clip-path="url(#pc6e67db196)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 683.702859 535.750301 
+L 917.957346 535.750301 
+L 917.957346 474.500841 
+L 683.702859 474.500841 
+z
+" clip-path="url(#pc6e67db196)" style="fill: #edf5fa; stroke: #215e88; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="800.830102" y="140.664128" transform="rotate(-0 800.830102 140.664128)">Difference / filter</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="800.830102" y="263.163046" transform="rotate(-0 800.830102 263.163046)">Quantiser</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="800.830102" y="385.661965" transform="rotate(-0 800.830102 385.661965)">Digital filter</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="800.830102" y="508.160884" transform="rotate(-0 800.830102 508.160884)">Decimation</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 800.830102 170.253573 
+Q 800.830102 198.878382 800.830102 225.49073 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 803.430102 220.29073 
+L 800.830102 225.49073 
+L 798.230102 220.29073 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 800.830102 292.752492 
+Q 800.830102 321.377301 800.830102 347.989649 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 803.430102 342.789649 
+L 800.830102 347.989649 
+L 798.230102 342.789649 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 800.830102 415.25141 
+Q 800.830102 443.876219 800.830102 470.488567 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 803.430102 465.288567 
+L 800.830102 470.488567 
+L 798.230102 465.288567 
+" style="fill: none; stroke: #215e88; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 682.296926 258.705284 
+Q 623.858483 198.877406 681.517384 139.849318 
+" style="fill: none; stroke: #215e88; stroke-linecap: round"/>
+    <path d="M 676.023902 141.752382 
+L 681.517384 139.849318 
+L 679.743746 145.385942 
+" style="fill: none; stroke: #215e88; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'" transform="translate(659.960356 207.706814) rotate(-90)">DAC</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: middle" x="800.830102" y="39.754626" transform="rotate(-0 800.830102 39.754626)">Delta-sigma</text>
+   </g>
+  </g>
+  <g id="text_17">
+   <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: middle" x="480" y="18.197115" transform="rotate(-0 480 18.197115)">Data converter architectures</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="peb6d8840a2">
+   <rect x="7.181813" y="45.754626" width="312.339316" height="551.245134"/>
+  </clipPath>
+  <clipPath id="p50012ab5d3">
+   <rect x="325.921129" y="45.754626" width="312.339316" height="551.245134"/>
+  </clipPath>
+  <clipPath id="pc6e67db196">
+   <rect x="644.660444" y="45.754626" width="312.339316" height="551.245134"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc">
+  <title id="title">Phase and Line Voltages in a Balanced Three-Phase System</title>
+  <desc id="desc">The three phasors UaN, UbN and UcN share the same origin and are separated by 120 degrees. Phasor Uab is the difference between UaN and UbN. It points from the tip of UbN to the tip of UaN.</desc>
+  <defs>
+    <marker id="blue-arrow" viewBox="0 0 10 10" markerWidth="12" markerHeight="12" refX="8" refY="5" orient="auto">
+      <path fill="#215276" d="M0 0L10 5L0 10z"/>
+    </marker>
+    <marker id="orange-arrow" viewBox="0 0 10 10" markerWidth="12" markerHeight="12" refX="8" refY="5" orient="auto">
+      <path fill="#a44c15" d="M0 0L10 5L0 10z"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="960" height="600" fill="#ffffff"/>
+  <rect x="20" y="20" width="920" height="560" rx="20" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+  <path d="M60 129H900" fill="none" stroke="#e2e5e9" stroke-width="2"/>
+  <g font-family="sans-serif" fill="#182020">
+    <text x="480" y="82" text-anchor="middle" font-size="29" font-weight="700">Phasors in a Balanced Three-Phase System</text>
+    <text x="480" y="114" text-anchor="middle" font-size="18" fill="#495565">Phase sequence a, b, c</text>
+    <path d="M110 331H533M340 169V503" stroke="#c8cfd7" stroke-width="2" stroke-dasharray="6 5"/>
+    <g stroke="#215276" stroke-width="3" fill="none" marker-end="url(#blue-arrow)">
+      <path d="M340 331H505"/>
+      <path d="M340 331L257.5 473.9"/>
+      <path d="M340 331L257.5 188.1"/>
+    </g>
+    <path d="M264 470L498 335" fill="none" stroke="#a44c15" stroke-width="3" marker-end="url(#orange-arrow)"/>
+    <circle cx="340" cy="331" r="4" fill="#182020"/>
+    <g fill="#1e506f" font-size="22">
+      <text x="507" y="319">U<tspan baseline-shift="sub" font-size="15">aN</tspan></text>
+      <text x="223" y="496">U<tspan baseline-shift="sub" font-size="15">bN</tspan></text>
+      <text x="215" y="183">U<tspan baseline-shift="sub" font-size="15">cN</tspan></text>
+    </g>
+    <text x="420" y="432" fill="#88400f" font-size="22">U<tspan baseline-shift="sub" font-size="15">ab</tspan></text>
+    <path d="M575 181V500" stroke="#e2e5e9" stroke-width="2"/>
+    <g font-size="20">
+      <text x="608" y="226" font-weight="700" fill="#1e506f">Phase voltages</text>
+      <text x="608" y="262">Equal magnitude</text>
+      <text x="608" y="292">Angles 0°, −120°, +120°</text>
+      <text x="608" y="350" font-weight="700" fill="#88400f">Line-to-line voltage</text>
+      <text x="608" y="386">Difference: U<tspan baseline-shift="sub" font-size="14">aN</tspan> − U<tspan baseline-shift="sub" font-size="14">bN</tspan></text>
+      <text x="608" y="416">Magnitude: √3 · U<tspan baseline-shift="sub" font-size="14">ph</tspan></text>
+      <text x="608" y="446">Angle: +30°</text>
+    </g>
+  </g>
+</svg>

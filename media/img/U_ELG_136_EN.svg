@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Slip and Power Balance</title><desc id="desc">Comparison of field and rotor speeds, and a stacked active power balance at the motor operating point.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Slip and Power Balance</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Four poles · 50 Hz · shaft torque 12 Nm</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="75.00" y="157.00" font-size="21" fill="#18212b" text-anchor="start" font-weight="700">Speed [min⁻¹]</text>
+<text x="75.00" y="208.00" font-size="21" fill="#18212b" text-anchor="start" font-weight="400">Rotating field</text>
+<rect x="225" y="180" width="590.0" height="37" rx="3" fill="#1f5679" stroke="#1f5679" stroke-width="1.5"/>
+<text x="805.00" y="206.00" font-size="21" fill="#ffffff" text-anchor="end" font-weight="700">1 500</text>
+<text x="75.00" y="271.00" font-size="21" fill="#18212b" text-anchor="start" font-weight="400">Rotor</text>
+<rect x="225" y="243" width="566.4" height="37" rx="3" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<text x="781.40" y="269.00" font-size="21" fill="#ffffff" text-anchor="end" font-weight="700">1 440</text>
+<line x1="791.40" y1="289.00" x2="791.40" y2="319.00" stroke="#b35c22" stroke-width="2"/>
+<line x1="815.00" y1="289.00" x2="815.00" y2="319.00" stroke="#b35c22" stroke-width="2"/>
+<line x1="791.40" y1="310.00" x2="815.00" y2="310.00" stroke="#b35c22" stroke-width="2"/>
+<text x="815.00" y="338.00" font-size="19" fill="#b35c22" text-anchor="end" font-weight="700">60 min⁻¹ = 4 % slip</text>
+<text x="75.00" y="377.00" font-size="21" fill="#18212b" text-anchor="start" font-weight="700">Active electrical power 2.10 kW</text>
+<rect x="75" y="395" width="697.9721278375495" height="58" rx="2" fill="#237b66" stroke="#237b66" stroke-width="1.5"/>
+<rect x="772.9721278375495" y="395" width="112.02787216245059" height="58" rx="2" fill="#b35c22" stroke="#b35c22" stroke-width="1.5"/>
+<text x="90.00" y="431.00" font-size="22" fill="#ffffff" text-anchor="start" font-weight="700">Shaft power 1.810 kW</text>
+<text x="885.00" y="481.00" font-size="19" fill="#b35c22" text-anchor="end" font-weight="700">Loss ≈ 0.290 kW</text>
+<text x="75.00" y="481.00" font-size="22" fill="#237b66" text-anchor="start" font-weight="700">η ≈ 86.2 %</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Slip is a speed ratio; efficiency is a power ratio.</text></g></svg>

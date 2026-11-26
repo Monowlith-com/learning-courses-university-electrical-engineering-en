@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc">
+<title id="title">Phasor Addition in the Complex Plane</title><desc id="desc">The phasors A, B and A plus B end at (3, 4), (4, −3) and (7, 1). Dashed lines complete the parallelogram construction.</desc>
+<defs><marker id="navy" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#1f5679"/></marker><marker id="teal" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#15685c"/></marker><marker id="rust" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#945021"/></marker><marker id="ink" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#18212b"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="18" fill="#fff" stroke="#d9dde1" stroke-width="2"/>
+<g font-family="Arial,sans-serif">
+<text x="56" y="79" font-size="31" fill="#18212b" text-anchor="start" font-weight="700">Phasor Addition in the Complex Plane</text>
+<line x1="56" y1="108" x2="904" y2="108" stroke="#e4e8eb" stroke-width="2"/>
+<line x1="230" y1="141" x2="230" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="277" y1="141" x2="277" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="324" y1="141" x2="324" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="371" y1="141" x2="371" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="418" y1="141" x2="418" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="465" y1="141" x2="465" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="512" y1="141" x2="512" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="559" y1="141" x2="559" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="606" y1="141" x2="606" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="653" y1="141" x2="653" y2="531" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="490" x2="677" y2="490" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="443" x2="677" y2="443" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="396" x2="677" y2="396" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="349" x2="677" y2="349" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="302" x2="677" y2="302" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="255" x2="677" y2="255" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="208" x2="677" y2="208" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="161" x2="677" y2="161" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="205" y1="349" x2="696" y2="349" stroke="#18212b" stroke-width="2" marker-end="url(#ink)"/>
+<line x1="277" y1="531" x2="277" y2="130" stroke="#18212b" stroke-width="2" marker-end="url(#ink)"/>
+<text x="704" y="356" font-size="20" fill="#18212b" text-anchor="start" font-weight="400">Re [V]</text>
+<text x="288" y="145" font-size="20" fill="#18212b" text-anchor="start" font-weight="400">Im [V]</text>
+<text x="262" y="371" font-size="17" fill="#18212b" text-anchor="start" font-weight="400">0</text>
+<line x1="418" y1="161" x2="606" y2="302" stroke="#bcc5cd" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="465" y1="490" x2="606" y2="302" stroke="#bcc5cd" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="277" y1="349" x2="418" y2="161" stroke="#1f5679" stroke-width="3" marker-end="url(#navy)"/>
+<line x1="277" y1="349" x2="465" y2="490" stroke="#945021" stroke-width="3" marker-end="url(#rust)"/>
+<line x1="277" y1="349" x2="606" y2="302" stroke="#15685c" stroke-width="3" marker-end="url(#teal)"/>
+<text x="426" y="152" font-size="20" fill="#1f5679" text-anchor="start" font-weight="400">A: 3 + j4</text>
+<text x="478" y="504" font-size="20" fill="#945021" text-anchor="start" font-weight="400">B: 4 − j3</text>
+<text x="618" y="290" font-size="20" fill="#15685c" text-anchor="start" font-weight="400">A + B: 7 + j</text>
+<text x="678" y="460" font-size="20" fill="#18212b" text-anchor="start" font-weight="700">Equal scale</text>
+<text x="678" y="487" font-size="20" fill="#18212b" text-anchor="start" font-weight="400">on both axes</text>
+<line x1="678" y1="507" x2="717" y2="507" stroke="#bcc5cd" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="725" y="514" font-size="19" fill="#18212b" text-anchor="start" font-weight="400">Guide line</text>
+</g>
+</svg>

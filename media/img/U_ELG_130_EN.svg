@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Regions of Convergence in the s- and z-Planes</title><desc id="desc">Causal Laplace example with a region to the right of the pole, and causal Z example with a region outside the pole radius.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Regions of Convergence in the s- and z-Planes</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">RC: pole −100 s⁻¹ · discrete filter: pole 0.8 and zero 0</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<rect x="70" y="166" width="390" height="300" rx="0" fill="#ffffff" stroke="#dce2e8" stroke-width="1.5"/>
+<rect x="170" y="167" width="289" height="298" rx="0" fill="#e0efe9" stroke="#e0efe9" stroke-width="1.5"/>
+<line x1="170.00" y1="166.00" x2="170.00" y2="466.00" stroke="#237b66" stroke-width="2" stroke-dasharray="7 5"/>
+<line x1="70.00" y1="316.00" x2="460.00" y2="316.00" stroke="#18212b" stroke-width="2"/>
+<polygon points="460.00,316.00 447.58,322.46 447.58,309.54" fill="#18212b"/>
+<line x1="265.00" y1="466.00" x2="265.00" y2="166.00" stroke="#18212b" stroke-width="2"/>
+<polygon points="265.00,166.00 271.46,178.42 258.54,178.42" fill="#18212b"/>
+<text x="269.00" y="156.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="400">Im(s)</text>
+<text x="445.00" y="341.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">Re(s)</text>
+<text x="170.00" y="341.00" font-size="18" fill="#18212b" text-anchor="middle" font-weight="400">−100</text>
+<text x="265.00" y="341.00" font-size="17" fill="#18212b" text-anchor="middle" font-weight="400">0</text>
+<line x1="160.00" y1="306.00" x2="180.00" y2="326.00" stroke="#b35c22" stroke-width="4"/>
+<line x1="160.00" y1="326.00" x2="180.00" y2="306.00" stroke="#b35c22" stroke-width="4"/>
+<text x="310.00" y="205.00" font-size="19" fill="#237b66" text-anchor="middle" font-weight="700">Re(s) &gt; −100</text>
+<text x="85.00" y="205.00" font-size="16" fill="#637383" text-anchor="start" font-weight="400">outside ROC</text>
+<text x="75.00" y="493.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">s-plane: includes Re(s) = 0 axis</text>
+<rect x="555" y="166" width="310" height="300" rx="0" fill="#e0efe9" stroke="#dce2e8" stroke-width="1.5"/>
+<circle cx="710" cy="316" r="80" fill="white" stroke="#237b66" stroke-width="2" stroke-dasharray="7 5"/><circle cx="710" cy="316" r="100" fill="none" stroke="#1f5679" stroke-width="2"/>
+<line x1="555.00" y1="316.00" x2="865.00" y2="316.00" stroke="#18212b" stroke-width="2"/>
+<polygon points="865.00,316.00 852.58,322.46 852.58,309.54" fill="#18212b"/>
+<line x1="710.00" y1="466.00" x2="710.00" y2="166.00" stroke="#18212b" stroke-width="2"/>
+<polygon points="710.00,166.00 716.46,178.42 703.54,178.42" fill="#18212b"/>
+<text x="721.00" y="156.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="400">Im(z)</text>
+<text x="862.00" y="342.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">Re(z)</text>
+<circle cx="710" cy="316" r="7" fill="white" stroke="#b35c22" stroke-width="3"/>
+<line x1="780.00" y1="306.00" x2="800.00" y2="326.00" stroke="#b35c22" stroke-width="4"/>
+<line x1="780.00" y1="326.00" x2="800.00" y2="306.00" stroke="#b35c22" stroke-width="4"/>
+<text x="790.00" y="298.00" font-size="17" fill="#b35c22" text-anchor="middle" font-weight="400">0.8</text>
+<text x="827.00" y="195.00" font-size="17" fill="#237b66" text-anchor="middle" font-weight="700">|z| &gt; 0.8</text>
+<text x="557.00" y="493.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">z-plane: includes unit circle (blue)</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Green: region of convergence · × pole · ○ zero · dashed boundary excluded.</text></g></svg>

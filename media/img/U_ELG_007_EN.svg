@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc">
+<title id="title">Electric Field of a Saddle Potential</title><desc id="desc">Field vectors for E = (−2ax, 2ay) are shown at grid points from −2 m to 2 m. They point inwards along the x-axis and outwards along the y-axis.</desc>
+<defs><marker id="navy" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#1f5679"/></marker><marker id="teal" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#15685c"/></marker><marker id="rust" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#945021"/></marker><marker id="ink" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#18212b"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="18" fill="#fff" stroke="#d9dde1" stroke-width="2"/>
+<g font-family="Arial,sans-serif">
+<text x="56" y="79" font-size="31" fill="#18212b" text-anchor="start" font-weight="700">Electric Field of a Saddle Potential</text>
+<line x1="56" y1="108" x2="904" y2="108" stroke="#e4e8eb" stroke-width="2"/>
+<line x1="246" y1="165" x2="246" y2="518" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="225" y1="492" x2="575" y2="492" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="323" y1="165" x2="323" y2="518" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="225" y1="415" x2="575" y2="415" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="400" y1="165" x2="400" y2="518" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="225" y1="338" x2="575" y2="338" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="477" y1="165" x2="477" y2="518" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="225" y1="261" x2="575" y2="261" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="554" y1="165" x2="554" y2="518" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="225" y1="184" x2="575" y2="184" stroke="#e4e8eb" stroke-width="1"/>
+<line x1="204" y1="338" x2="590" y2="338" stroke="#bcc5cd" stroke-width="2" marker-end="url(#ink)"/>
+<line x1="400" y1="525" x2="400" y2="151" stroke="#bcc5cd" stroke-width="2" marker-end="url(#ink)"/>
+<text x="595" y="345" font-size="19" fill="#18212b" text-anchor="start" font-weight="400">x [m]</text>
+<text x="414" y="157" font-size="19" fill="#18212b" text-anchor="start" font-weight="400">y [m]</text>
+<text x="246" y="360" font-size="15" fill="#18212b" text-anchor="middle" font-weight="400">-2</text>
+<text x="387" y="497" font-size="15" fill="#18212b" text-anchor="end" font-weight="400">-2</text>
+<text x="323" y="360" font-size="15" fill="#18212b" text-anchor="middle" font-weight="400">-1</text>
+<text x="387" y="420" font-size="15" fill="#18212b" text-anchor="end" font-weight="400">-1</text>
+<text x="477" y="360" font-size="15" fill="#18212b" text-anchor="middle" font-weight="400">1</text>
+<text x="387" y="266" font-size="15" fill="#18212b" text-anchor="end" font-weight="400">1</text>
+<text x="554" y="360" font-size="15" fill="#18212b" text-anchor="middle" font-weight="400">2</text>
+<text x="387" y="189" font-size="15" fill="#18212b" text-anchor="end" font-weight="400">2</text>
+<circle cx="246" cy="492" r="2.5" fill="#1f5679"/>
+<line x1="246" y1="492" x2="284" y2="530" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="246" cy="415" r="2.5" fill="#1f5679"/>
+<line x1="246" y1="415" x2="284" y2="434" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="246" cy="338" r="2.5" fill="#1f5679"/>
+<line x1="246" y1="338" x2="284" y2="338" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="246" cy="261" r="2.5" fill="#1f5679"/>
+<line x1="246" y1="261" x2="284" y2="242" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="246" cy="184" r="2.5" fill="#1f5679"/>
+<line x1="246" y1="184" x2="284" y2="146" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="323" cy="492" r="2.5" fill="#1f5679"/>
+<line x1="323" y1="492" x2="342" y2="530" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="323" cy="415" r="2.5" fill="#1f5679"/>
+<line x1="323" y1="415" x2="342" y2="434" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="323" cy="338" r="2.5" fill="#1f5679"/>
+<line x1="323" y1="338" x2="342" y2="338" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="323" cy="261" r="2.5" fill="#1f5679"/>
+<line x1="323" y1="261" x2="342" y2="242" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="323" cy="184" r="2.5" fill="#1f5679"/>
+<line x1="323" y1="184" x2="342" y2="146" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="400" cy="492" r="2.5" fill="#1f5679"/>
+<line x1="400" y1="492" x2="400" y2="530" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="400" cy="415" r="2.5" fill="#1f5679"/>
+<line x1="400" y1="415" x2="400" y2="434" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="400" cy="261" r="2.5" fill="#1f5679"/>
+<line x1="400" y1="261" x2="400" y2="242" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="400" cy="184" r="2.5" fill="#1f5679"/>
+<line x1="400" y1="184" x2="400" y2="146" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="477" cy="492" r="2.5" fill="#1f5679"/>
+<line x1="477" y1="492" x2="458" y2="530" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="477" cy="415" r="2.5" fill="#1f5679"/>
+<line x1="477" y1="415" x2="458" y2="434" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="477" cy="338" r="2.5" fill="#1f5679"/>
+<line x1="477" y1="338" x2="458" y2="338" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="477" cy="261" r="2.5" fill="#1f5679"/>
+<line x1="477" y1="261" x2="458" y2="242" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="477" cy="184" r="2.5" fill="#1f5679"/>
+<line x1="477" y1="184" x2="458" y2="146" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="554" cy="492" r="2.5" fill="#1f5679"/>
+<line x1="554" y1="492" x2="516" y2="530" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="554" cy="415" r="2.5" fill="#1f5679"/>
+<line x1="554" y1="415" x2="516" y2="434" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="554" cy="338" r="2.5" fill="#1f5679"/>
+<line x1="554" y1="338" x2="516" y2="338" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="554" cy="261" r="2.5" fill="#1f5679"/>
+<line x1="554" y1="261" x2="516" y2="242" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="554" cy="184" r="2.5" fill="#1f5679"/>
+<line x1="554" y1="184" x2="516" y2="146" stroke="#1f5679" stroke-width="2.5" marker-end="url(#navy)"/>
+<circle cx="400" cy="338" r="4" fill="#1f5679"/>
+<text x="414" y="364" font-size="16" fill="#18212b" text-anchor="start" font-weight="400">0</text>
+<text x="652" y="235" font-size="24" fill="#18212b" text-anchor="start" font-weight="700">Potential model</text>
+<text x="652" y="269" font-size="23" fill="#18212b" text-anchor="start" font-weight="400">φ = a(x² − y²)</text>
+<text x="652" y="301" font-size="21" fill="#18212b" text-anchor="start" font-weight="400">a = 2 V/m²</text>
+<text x="652" y="362" font-size="23" fill="#18212b" text-anchor="start" font-weight="700">Field components</text>
+<text x="652" y="395" font-size="21" fill="#18212b" text-anchor="start" font-weight="400">Eₓ = −2ax</text>
+<text x="652" y="426" font-size="21" fill="#18212b" text-anchor="start" font-weight="400">Eᵧ = 2ay</text>
+<text x="652" y="485" font-size="18" fill="#1f5679" text-anchor="start" font-weight="400">Arrow length ∝ field magnitude</text>
+</g>
+</svg>

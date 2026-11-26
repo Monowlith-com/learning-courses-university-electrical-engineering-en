@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Signal Paths in a Closed Loop</title>
+<desc id="desc">The reference minus the measured value gives the control error. The controller drives the plant. The added output disturbance also affects the measuring element and thus the feedback.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4 L0 8 Z" fill="#18212b"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="18" fill="#fff" stroke="#d9dee3" stroke-width="2"/>
+<g font-family="Arial, sans-serif">
+<text x="54" y="78" font-size="33" fill="#18212b" font-weight="700" text-anchor="start">Signal Paths in a Closed Loop</text>
+<path d="M54 106 H906" fill="none" stroke="#d9dee3" stroke-width="2"/>
+<text x="62" y="222" font-size="21" fill="#225c88" font-weight="700" text-anchor="start">Reference r</text>
+<path d="M64 261 H172" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<circle cx="199" cy="261" r="24" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<text x="194" y="269" font-size="21" fill="#18212b" font-weight="400" text-anchor="start">Σ</text>
+<text x="163" y="250" font-size="21" fill="#18212b" font-weight="400" text-anchor="start">+</text>
+<text x="175" y="309" font-size="25" fill="#18212b" font-weight="400" text-anchor="start">−</text>
+<path d="M223 261 H301" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="251" y="242" font-size="19" fill="#59636e" font-weight="400" text-anchor="start">e</text>
+<rect x="304" y="224" width="147" height="74" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="377.5" y="269" font-size="24" fill="#18212b" font-weight="700" text-anchor="middle">Controller C</text>
+<path d="M451 261 H520" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="477" y="242" font-size="19" fill="#59636e" font-weight="400" text-anchor="start">u</text>
+<rect x="523" y="224" width="147" height="74" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="596.5" y="269" font-size="24" fill="#18212b" font-weight="700" text-anchor="middle">Plant G</text>
+<path d="M670 261 H726" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<circle cx="752" cy="261" r="24" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<text x="747" y="269" font-size="21" fill="#18212b" font-weight="400" text-anchor="start">Σ</text>
+<text x="719" y="248" font-size="21" fill="#18212b" font-weight="400" text-anchor="start">+</text>
+<path d="M752 176 V233" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="716" y="158" font-size="20" fill="#23675f" font-weight="700" text-anchor="start">Disturbance d</text>
+<text x="766" y="225" font-size="21" fill="#18212b" font-weight="400" text-anchor="start">+</text>
+<path d="M776 261 H892" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="815" y="224" font-size="20" fill="#225c88" font-weight="700" text-anchor="start">Output y</text>
+<circle cx="823" cy="261" r="4" fill="#18212b"/>
+<path d="M823 261 V436 H560" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="397" y="403" width="160" height="66" rx="12" fill="#f6f9fb" stroke="#18212b" stroke-width="2"/>
+<text x="477" y="443" font-size="23" fill="#18212b" font-weight="700" text-anchor="middle">Sensor</text>
+<path d="M397 436 H199 V289" fill="none" stroke="#18212b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="259" y="413" font-size="22" fill="#225c88" font-weight="400" text-anchor="start">Measured yₘ</text>
+<text x="480" y="532" font-size="21" fill="#59636e" font-weight="400" text-anchor="middle">Negative feedback with a disturbance at the plant output</text>
+</g>
+</svg>

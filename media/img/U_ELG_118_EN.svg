@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Averaging Independent Measurement Errors</title><desc id="desc">Discrete error distribution before and after averaging four independent, identically distributed measurements. The standard deviation is halved.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Averaging Independent Measurement Errors</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Lesson model · X: −2, 0 or +2 mV · no offset</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="100.00" y="152.00" font-size="20" fill="#18212b" text-anchor="start" font-weight="700">Single measurement</text>
+<line x1="100.00" y1="437.00" x2="448.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="88.00" y="443.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="100.00" y1="329.41" x2="448.00" y2="329.41" stroke="#dce2e8" stroke-width="1"/>
+<text x="88.00" y="335.41" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.25</text>
+<line x1="100.00" y1="221.82" x2="448.00" y2="221.82" stroke="#dce2e8" stroke-width="1"/>
+<text x="88.00" y="227.82" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.50</text>
+<line x1="129.00" y1="196.00" x2="129.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="129.00" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">-2</text>
+<line x1="201.50" y1="196.00" x2="201.50" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="201.50" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">-1</text>
+<line x1="274.00" y1="196.00" x2="274.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="274.00" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="346.50" y1="196.00" x2="346.50" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="346.50" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">1</text>
+<line x1="419.00" y1="196.00" x2="419.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="419.00" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">2</text>
+<line x1="100.00" y1="437.00" x2="448.00" y2="437.00" stroke="#18212b" stroke-width="2"/>
+<line x1="100.00" y1="196.00" x2="100.00" y2="437.00" stroke="#18212b" stroke-width="2"/>
+<text x="100.00" y="181.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">P</text>
+<text x="448.00" y="487.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">Error [mV]</text>
+<line x1="129.00" y1="437.00" x2="129.00" y2="329.41" stroke="#1f5679" stroke-width="12"/>
+<circle cx="129.00" cy="329.41" r="5" fill="#1f5679"/>
+<line x1="274.00" y1="437.00" x2="274.00" y2="221.82" stroke="#1f5679" stroke-width="12"/>
+<circle cx="274.00" cy="221.82" r="5" fill="#1f5679"/>
+<line x1="419.00" y1="437.00" x2="419.00" y2="329.41" stroke="#1f5679" stroke-width="12"/>
+<circle cx="419.00" cy="329.41" r="5" fill="#1f5679"/>
+<text x="274.00" y="511.00" font-size="19" fill="#1f5679" text-anchor="middle" font-weight="700">σ ≈ 1.414 mV</text>
+<text x="560.00" y="152.00" font-size="20" fill="#18212b" text-anchor="start" font-weight="700">Mean of four measurements</text>
+<line x1="560.00" y1="437.00" x2="908.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="548.00" y="443.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="560.00" y1="329.41" x2="908.00" y2="329.41" stroke="#dce2e8" stroke-width="1"/>
+<text x="548.00" y="335.41" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.25</text>
+<line x1="560.00" y1="221.82" x2="908.00" y2="221.82" stroke="#dce2e8" stroke-width="1"/>
+<text x="548.00" y="227.82" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.50</text>
+<line x1="589.00" y1="196.00" x2="589.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="589.00" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">-2</text>
+<line x1="661.50" y1="196.00" x2="661.50" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="661.50" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">-1</text>
+<line x1="734.00" y1="196.00" x2="734.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="734.00" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">0</text>
+<line x1="806.50" y1="196.00" x2="806.50" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="806.50" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">1</text>
+<line x1="879.00" y1="196.00" x2="879.00" y2="437.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="879.00" y="462.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">2</text>
+<line x1="560.00" y1="437.00" x2="908.00" y2="437.00" stroke="#18212b" stroke-width="2"/>
+<line x1="560.00" y1="196.00" x2="560.00" y2="437.00" stroke="#18212b" stroke-width="2"/>
+<text x="560.00" y="181.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">P</text>
+<text x="908.00" y="487.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">Error [mV]</text>
+<line x1="589.00" y1="437.00" x2="589.00" y2="435.32" stroke="#237b66" stroke-width="9"/>
+<circle cx="589.00" cy="435.32" r="5" fill="#237b66"/>
+<line x1="625.25" y1="437.00" x2="625.25" y2="423.55" stroke="#237b66" stroke-width="9"/>
+<circle cx="625.25" cy="423.55" r="5" fill="#237b66"/>
+<line x1="661.50" y1="437.00" x2="661.50" y2="389.93" stroke="#237b66" stroke-width="9"/>
+<circle cx="661.50" cy="389.93" r="5" fill="#237b66"/>
+<line x1="697.75" y1="437.00" x2="697.75" y2="342.86" stroke="#237b66" stroke-width="9"/>
+<circle cx="697.75" cy="342.86" r="5" fill="#237b66"/>
+<line x1="734.00" y1="437.00" x2="734.00" y2="319.32" stroke="#237b66" stroke-width="9"/>
+<circle cx="734.00" cy="319.32" r="5" fill="#237b66"/>
+<line x1="770.25" y1="437.00" x2="770.25" y2="342.86" stroke="#237b66" stroke-width="9"/>
+<circle cx="770.25" cy="342.86" r="5" fill="#237b66"/>
+<line x1="806.50" y1="437.00" x2="806.50" y2="389.93" stroke="#237b66" stroke-width="9"/>
+<circle cx="806.50" cy="389.93" r="5" fill="#237b66"/>
+<line x1="842.75" y1="437.00" x2="842.75" y2="423.55" stroke="#237b66" stroke-width="9"/>
+<circle cx="842.75" cy="423.55" r="5" fill="#237b66"/>
+<line x1="879.00" y1="437.00" x2="879.00" y2="435.32" stroke="#237b66" stroke-width="9"/>
+<circle cx="879.00" cy="435.32" r="5" fill="#237b66"/>
+<text x="734.00" y="511.00" font-size="19" fill="#237b66" text-anchor="middle" font-weight="700">σ ≈ 0.707 mV</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">Both distributions have mean 0; dispersion decreases under the assumed independence.</text></g></svg>

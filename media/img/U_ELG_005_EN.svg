@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc">
+<title id="title">Two Nodes, Two Current Balances</title><desc id="desc">Nodes A and B are connected by a conductance of 1 mS. Their conductances to the common reference are 1 and 2 mS respectively. Ideal sources inject 4 and 1 mA.</desc>
+<defs><marker id="navy" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#1f5679"/></marker><marker id="teal" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#15685c"/></marker><marker id="rust" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#945021"/></marker><marker id="ink" viewBox="0 0 10 10" refX="8.4" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#18212b"/></marker></defs>
+<rect width="960" height="600" fill="#fff"/>
+<rect x="18" y="18" width="924" height="564" rx="18" fill="#fff" stroke="#d9dde1" stroke-width="2"/>
+<g font-family="Arial,sans-serif">
+<text x="56" y="79" font-size="31" fill="#18212b" text-anchor="start" font-weight="700">Two Nodes, Two Current Balances</text>
+<line x1="56" y1="108" x2="904" y2="108" stroke="#e4e8eb" stroke-width="2"/>
+<line x1="190" y1="235" x2="455" y2="235" stroke="#18212b" stroke-width="3"/>
+<line x1="525" y1="235" x2="770" y2="235" stroke="#18212b" stroke-width="3"/>
+<rect x="455" y="218" width="70" height="34" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<text x="490" y="203" font-size="22" fill="#18212b" text-anchor="middle" font-weight="400">1 mS</text>
+<text x="370" y="205" font-size="26" fill="#18212b" text-anchor="middle" font-weight="700">A</text>
+<text x="605" y="205" font-size="26" fill="#18212b" text-anchor="middle" font-weight="700">B</text>
+<line x1="190" y1="462" x2="770" y2="462" stroke="#18212b" stroke-width="3"/>
+<line x1="480" y1="462" x2="480" y2="484" stroke="#18212b" stroke-width="3"/>
+<line x1="458" y1="484" x2="502" y2="484" stroke="#18212b" stroke-width="3"/>
+<line x1="465" y1="493" x2="495" y2="493" stroke="#18212b" stroke-width="2.5"/>
+<line x1="473" y1="501" x2="487" y2="501" stroke="#18212b" stroke-width="2.5"/>
+<text x="505" y="497" font-size="21" fill="#18212b" text-anchor="start" font-weight="400">Reference: 0 V</text>
+<line x1="370" y1="235" x2="370" y2="319" stroke="#18212b" stroke-width="3"/>
+<rect x="353" y="319" width="34" height="67" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<line x1="370" y1="386" x2="370" y2="462" stroke="#18212b" stroke-width="3"/>
+<text x="394" y="363" font-size="22" fill="#18212b" text-anchor="start" font-weight="400">1 mS</text>
+<circle cx="370" cy="235" r="5" fill="#18212b"/>
+<circle cx="370" cy="462" r="5" fill="#18212b"/>
+<line x1="605" y1="235" x2="605" y2="319" stroke="#18212b" stroke-width="3"/>
+<rect x="588" y="319" width="34" height="67" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<line x1="605" y1="386" x2="605" y2="462" stroke="#18212b" stroke-width="3"/>
+<text x="629" y="363" font-size="22" fill="#18212b" text-anchor="start" font-weight="400">2 mS</text>
+<circle cx="605" cy="235" r="5" fill="#18212b"/>
+<circle cx="605" cy="462" r="5" fill="#18212b"/>
+<line x1="190" y1="235" x2="190" y2="318" stroke="#18212b" stroke-width="3"/>
+<circle cx="190" cy="351" r="33" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<line x1="190" y1="384" x2="190" y2="462" stroke="#18212b" stroke-width="3"/>
+<line x1="190" y1="367" x2="190" y2="336" stroke="#1f5679" stroke-width="3" marker-end="url(#navy)"/>
+<text x="179" y="398" font-size="22" fill="#1f5679" text-anchor="end" font-weight="400">4 mA</text>
+<line x1="770" y1="235" x2="770" y2="318" stroke="#18212b" stroke-width="3"/>
+<circle cx="770" cy="351" r="33" fill="#fff" stroke="#18212b" stroke-width="2.5"/>
+<line x1="770" y1="384" x2="770" y2="462" stroke="#18212b" stroke-width="3"/>
+<line x1="770" y1="367" x2="770" y2="336" stroke="#1f5679" stroke-width="3" marker-end="url(#navy)"/>
+<text x="780" y="398" font-size="22" fill="#1f5679" text-anchor="start" font-weight="400">1 mA</text>
+</g>
+</svg>

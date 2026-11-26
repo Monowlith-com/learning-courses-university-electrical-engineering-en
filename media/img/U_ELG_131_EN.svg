@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="title desc"><title id="title">Noise in Block Averaging</title><desc id="desc">Standard deviation of the block mean for uncorrelated samples and for a completely shared offset.</desc><rect width="960" height="600" fill="white"/><rect x="18" y="18" width="924" height="564" rx="18" fill="white" stroke="#dce2e8" stroke-width="2"/><g font-family="Arial, sans-serif">
+<text x="55.00" y="68.00" font-size="30" fill="#18212b" text-anchor="start" font-weight="700">Noise in Block Averaging</text>
+<text x="55.00" y="96.00" font-size="18" fill="#637383" text-anchor="start" font-weight="400">Single sample σ = 0.20 V · constant desired signal 1 V</text>
+<line x1="55.00" y1="116.00" x2="905.00" y2="116.00" stroke="#dce2e8" stroke-width="2"/>
+<line x1="110.00" y1="446.00" x2="895.00" y2="446.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="452.00" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0</text>
+<line x1="110.00" y1="384.18" x2="895.00" y2="384.18" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="390.18" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.05</text>
+<line x1="110.00" y1="322.36" x2="895.00" y2="322.36" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="328.36" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.1</text>
+<line x1="110.00" y1="260.55" x2="895.00" y2="260.55" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="266.55" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.15</text>
+<line x1="110.00" y1="198.73" x2="895.00" y2="198.73" stroke="#dce2e8" stroke-width="1"/>
+<text x="98.00" y="204.73" font-size="16" fill="#637383" text-anchor="end" font-weight="400">0.2</text>
+<line x1="110.00" y1="174.00" x2="110.00" y2="446.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="110.00" y="471.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">1</text>
+<line x1="300.30" y1="174.00" x2="300.30" y2="446.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="300.30" y="471.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">25</text>
+<line x1="498.54" y1="174.00" x2="498.54" y2="446.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="498.54" y="471.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">50</text>
+<line x1="696.77" y1="174.00" x2="696.77" y2="446.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="696.77" y="471.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">75</text>
+<line x1="895.00" y1="174.00" x2="895.00" y2="446.00" stroke="#dce2e8" stroke-width="1"/>
+<text x="895.00" y="471.00" font-size="16" fill="#637383" text-anchor="middle" font-weight="400">100</text>
+<line x1="110.00" y1="446.00" x2="895.00" y2="446.00" stroke="#18212b" stroke-width="2"/>
+<line x1="110.00" y1="174.00" x2="110.00" y2="446.00" stroke="#18212b" stroke-width="2"/>
+<text x="110.00" y="159.00" font-size="19" fill="#18212b" text-anchor="start" font-weight="700">Standard deviation [V]</text>
+<text x="895.00" y="496.00" font-size="18" fill="#18212b" text-anchor="end" font-weight="400">Sample count N</text>
+<polyline points="110.00,198.73 117.93,271.15 125.86,303.24 133.79,322.36 141.72,335.42 149.65,345.05 157.58,352.54 165.51,358.58 173.43,363.58 181.36,367.81 189.29,371.44 197.22,374.62 205.15,377.42 213.08,379.91 221.01,382.15 228.94,384.18 236.87,386.03 244.80,387.72 252.73,389.27 260.66,390.71 268.59,392.04 276.52,393.28 284.44,394.44 292.37,395.53 300.30,396.55 308.23,397.51 316.16,398.41 324.09,399.27 332.02,400.08 339.95,400.85 347.88,401.59 355.81,402.29 363.74,402.96 371.67,403.59 379.60,404.20 387.53,404.79 395.45,405.35 403.38,405.89 411.31,406.40 419.24,406.90 427.17,407.38 435.10,407.84 443.03,408.29 450.96,408.72 458.89,409.14 466.82,409.54 474.75,409.93 482.68,410.31 490.61,410.68 498.54,411.03 506.46,411.37 514.39,411.71 522.32,412.03 530.25,412.35 538.18,412.66 546.11,412.96 554.04,413.25 561.97,413.53 569.90,413.81 577.83,414.08 585.76,414.34 593.69,414.60 601.62,414.85 609.55,415.09 617.47,415.33 625.40,415.56 633.33,415.79 641.26,416.01 649.19,416.23 657.12,416.45 665.05,416.65 672.98,416.86 680.91,417.06 688.84,417.26 696.77,417.45 704.70,417.64 712.63,417.82 720.56,418.00 728.48,418.18 736.41,418.35 744.34,418.53 752.27,418.69 760.20,418.86 768.13,419.02 776.06,419.18 783.99,419.34 791.92,419.49 799.85,419.64 807.78,419.79 815.71,419.94 823.64,420.08 831.57,420.22 839.49,420.36 847.42,420.50 855.35,420.63 863.28,420.76 871.21,420.89 879.14,421.02 887.07,421.15 895.00,421.27" fill="none" stroke="#1f5679" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="110.00" y1="198.73" x2="895.00" y2="198.73" stroke="#b35c22" stroke-width="4"/>
+<circle cx="300.30" cy="396.55" r="8" fill="#237b66"/>
+<text x="315.30" y="381.55" font-size="20" fill="#237b66" text-anchor="start" font-weight="700">N = 25: 0.04 V</text>
+<text x="870.00" y="182.73" font-size="20" fill="#b35c22" text-anchor="end" font-weight="700">completely shared</text>
+<text x="580.00" y="375.00" font-size="20" fill="#1f5679" text-anchor="start" font-weight="700">uncorrelated: σ/√N</text>
+<line x1="55.00" y1="523.00" x2="905.00" y2="523.00" stroke="#dce2e8" stroke-width="2"/>
+<text x="55.00" y="551.00" font-size="19" fill="#637383" text-anchor="start" font-weight="400">For a completely shared error, averaging does not reduce dispersion.</text></g></svg>
